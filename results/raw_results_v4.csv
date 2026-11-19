@@ -1,0 +1,946 @@
+texture_id,resolution,method,seed,category,ssim,psnr,lpips,time_ms,gpu_mem_mb,image,lambda_s,version
+woven_0001.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0146990006377059,9.770907380345282,0.4000134766101837,19.365999000001462,50.189453125,256_fBM_p_FF_no_warp_0_woven_0001.png,,"v3 (same code, w=3, α=1)"
+woven_0001.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,-0.0199050331101211,9.55701204739078,0.3927994966506958,19.59489999899233,50.189453125,256_fBM_p_FF_no_warp_1_woven_0001.png,,"v3 (same code, w=3, α=1)"
+woven_0001.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,-0.0020271746060059,9.40849138758516,0.4233650267124176,19.67628700003843,50.189453125,256_fBM_p_FF_no_warp_2_woven_0001.png,,"v3 (same code, w=3, α=1)"
+woven_0002.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.1662720646212322,17.779480654278995,0.3586296737194061,19.167100999766262,50.189453125,256_fBM_p_FF_no_warp_0_woven_0002.png,,"v3 (same code, w=3, α=1)"
+woven_0002.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.1690103482285853,17.61854084410863,0.3792048692703247,23.11634699981369,50.189453125,256_fBM_p_FF_no_warp_1_woven_0002.png,,"v3 (same code, w=3, α=1)"
+woven_0002.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.1792439627070144,17.779290631988076,0.3487288653850555,19.60589800000889,50.189453125,256_fBM_p_FF_no_warp_2_woven_0002.png,,"v3 (same code, w=3, α=1)"
+woven_0003.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0127642903527617,9.83663914826323,0.574290931224823,19.7298579987546,50.189453125,256_fBM_p_FF_no_warp_0_woven_0003.png,,"v3 (same code, w=3, α=1)"
+woven_0003.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.0122961793162298,9.719882680404432,0.5796809196472168,19.84652099963569,50.189453125,256_fBM_p_FF_no_warp_1_woven_0003.png,,"v3 (same code, w=3, α=1)"
+woven_0003.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.0276237104094987,9.857865357155752,0.5538861751556396,20.142335999480565,50.189453125,256_fBM_p_FF_no_warp_2_woven_0003.png,,"v3 (same code, w=3, α=1)"
+woven_0004.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0284098877877385,12.082360972391644,0.4078704714775085,20.88587099933648,50.189453125,256_fBM_p_FF_no_warp_0_woven_0004.png,,"v3 (same code, w=3, α=1)"
+woven_0004.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.0411590001276091,12.148545525936743,0.4404762387275696,21.04995900117501,50.189453125,256_fBM_p_FF_no_warp_1_woven_0004.png,,"v3 (same code, w=3, α=1)"
+woven_0004.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.0368380035412162,12.122941444546978,0.4361054897308349,20.983099000659426,50.189453125,256_fBM_p_FF_no_warp_2_woven_0004.png,,"v3 (same code, w=3, α=1)"
+woven_0005.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.023529773184041,12.888105167451648,0.394818902015686,20.34779600035108,50.189453125,256_fBM_p_FF_no_warp_0_woven_0005.png,,"v3 (same code, w=3, α=1)"
+woven_0005.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.0163366746318355,12.905778026741388,0.3448682427406311,20.08045900038269,50.189453125,256_fBM_p_FF_no_warp_1_woven_0005.png,,"v3 (same code, w=3, α=1)"
+woven_0005.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.0285737003083432,13.027144730499248,0.3409189283847809,23.01762499882898,50.189453125,256_fBM_p_FF_no_warp_2_woven_0005.png,,"v3 (same code, w=3, α=1)"
+woven_0007.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0322572017556412,8.13198458015321,0.3264131844043731,19.20744599919999,50.189453125,256_fBM_p_FF_no_warp_0_woven_0007.png,,"v3 (same code, w=3, α=1)"
+woven_0007.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.0314246677177078,8.104991002238677,0.3236803114414215,19.433133998973062,50.189453125,256_fBM_p_FF_no_warp_1_woven_0007.png,,"v3 (same code, w=3, α=1)"
+woven_0007.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.0372269400024622,8.099619157647343,0.3269539177417755,20.506282000496867,50.189453125,256_fBM_p_FF_no_warp_2_woven_0007.png,,"v3 (same code, w=3, α=1)"
+woven_0008.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0151177323968378,14.39349515477756,0.3078747093677521,20.41298900076072,50.189453125,256_fBM_p_FF_no_warp_0_woven_0008.png,,"v3 (same code, w=3, α=1)"
+woven_0008.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.0278522223170658,14.335668593844488,0.3623442649841308,20.418222999069258,50.189453125,256_fBM_p_FF_no_warp_1_woven_0008.png,,"v3 (same code, w=3, α=1)"
+woven_0008.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.0229122040082358,14.57206454443667,0.3885161280632019,20.66324900079053,50.189453125,256_fBM_p_FF_no_warp_2_woven_0008.png,,"v3 (same code, w=3, α=1)"
+woven_0009.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.1393572667250202,9.2813564225958,0.4708622992038727,19.495037000524466,50.189453125,256_fBM_p_FF_no_warp_0_woven_0009.png,,"v3 (same code, w=3, α=1)"
+woven_0009.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.1414835038202951,9.280212413585405,0.5240471959114075,20.33814400056144,50.189453125,256_fBM_p_FF_no_warp_1_woven_0009.png,,"v3 (same code, w=3, α=1)"
+woven_0009.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.1297739064377165,9.272888994775734,0.506756067276001,19.962860000305227,50.189453125,256_fBM_p_FF_no_warp_2_woven_0009.png,,"v3 (same code, w=3, α=1)"
+woven_0010.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.2636476602245629,14.79703605397644,0.5451714396476746,22.03981999991811,50.189453125,256_fBM_p_FF_no_warp_0_woven_0010.png,,"v3 (same code, w=3, α=1)"
+woven_0010.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.2651023675780504,14.735462532368295,0.544975757598877,20.41948399892135,50.189453125,256_fBM_p_FF_no_warp_1_woven_0010.png,,"v3 (same code, w=3, α=1)"
+woven_0010.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.2596893820452517,14.777311267876287,0.4987200796604156,20.229202998962137,50.189453125,256_fBM_p_FF_no_warp_2_woven_0010.png,,"v3 (same code, w=3, α=1)"
+woven_0011.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.1915198234451387,7.593236075639796,0.4860785007476806,20.694483999250224,50.189453125,256_fBM_p_FF_no_warp_0_woven_0011.png,,"v3 (same code, w=3, α=1)"
+woven_0011.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.1952311146803141,7.606469220588316,0.5256896615028381,20.697796999229467,50.189453125,256_fBM_p_FF_no_warp_1_woven_0011.png,,"v3 (same code, w=3, α=1)"
+woven_0011.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.1918052276011193,7.606357679453137,0.5038858652114868,20.76371200018912,50.189453125,256_fBM_p_FF_no_warp_2_woven_0011.png,,"v3 (same code, w=3, α=1)"
+woven_0012.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.1360633477749146,8.937671458710346,0.5031673908233643,22.03043500048807,50.189453125,256_fBM_p_FF_no_warp_0_woven_0012.png,,"v3 (same code, w=3, α=1)"
+woven_0012.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.14451585565984,8.950580403821743,0.5096482038497925,19.67568600048253,50.189453125,256_fBM_p_FF_no_warp_1_woven_0012.png,,"v3 (same code, w=3, α=1)"
+woven_0012.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.1404811102849461,8.93072383134436,0.4981804490089416,20.43965599841613,50.189453125,256_fBM_p_FF_no_warp_2_woven_0012.png,,"v3 (same code, w=3, α=1)"
+woven_0013.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0429807076820333,13.429433790683529,0.4197150468826294,20.170265999695403,50.189453125,256_fBM_p_FF_no_warp_0_woven_0013.png,,"v3 (same code, w=3, α=1)"
+woven_0013.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.03858572010468,13.481374549638684,0.4345499575138092,19.99542600060522,50.189453125,256_fBM_p_FF_no_warp_1_woven_0013.png,,"v3 (same code, w=3, α=1)"
+woven_0013.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.0514153522674731,13.50241846519348,0.4292805194854736,19.9969900004362,50.189453125,256_fBM_p_FF_no_warp_2_woven_0013.png,,"v3 (same code, w=3, α=1)"
+woven_0014.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.2258384144036234,15.804685361808342,0.5019634962081909,19.68548700097017,50.189453125,256_fBM_p_FF_no_warp_0_woven_0014.png,,"v3 (same code, w=3, α=1)"
+woven_0014.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.2214593309862121,15.80287469162416,0.5141154527664185,21.322340000551776,50.189453125,256_fBM_p_FF_no_warp_1_woven_0014.png,,"v3 (same code, w=3, α=1)"
+woven_0014.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.2222290096018317,15.861980017044903,0.5196812748908997,20.19879300132743,50.189453125,256_fBM_p_FF_no_warp_2_woven_0014.png,,"v3 (same code, w=3, α=1)"
+woven_0015.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.0250718515956935,14.535290784312911,0.3288666605949402,19.4569989998854,50.189453125,256_fBM_p_FF_no_warp_0_woven_0015.png,,"v3 (same code, w=3, α=1)"
+woven_0015.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.0320282397860441,14.586605981761435,0.3345332145690918,19.489480000629555,50.189453125,256_fBM_p_FF_no_warp_1_woven_0015.png,,"v3 (same code, w=3, α=1)"
+woven_0015.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.027028228130512,14.677393060340512,0.3742077946662903,19.76727600049344,50.189453125,256_fBM_p_FF_no_warp_2_woven_0015.png,,"v3 (same code, w=3, α=1)"
+woven_0016.jpg,256,Proposed: fBM + FF (no B-spline),0,woven,0.2123855326878305,11.944453329077636,0.3993205726146698,22.031922000678605,50.189453125,256_fBM_p_FF_no_warp_0_woven_0016.png,,"v3 (same code, w=3, α=1)"
+woven_0016.jpg,256,Proposed: fBM + FF (no B-spline),1,woven,0.1919548058308703,11.993497817979703,0.3933266997337341,22.97891200032609,50.189453125,256_fBM_p_FF_no_warp_1_woven_0016.png,,"v3 (same code, w=3, α=1)"
+woven_0016.jpg,256,Proposed: fBM + FF (no B-spline),2,woven,0.2034721294275829,11.974076009252755,0.4018827080726623,21.612335000099847,50.189453125,256_fBM_p_FF_no_warp_2_woven_0016.png,,"v3 (same code, w=3, α=1)"
+braided_0002.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.1113589344363454,14.429791188431356,0.4373384714126587,22.76602500023728,50.189453125,256_fBM_p_FF_no_warp_0_braided_0002.png,,"v3 (same code, w=3, α=1)"
+braided_0002.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.1185256402095938,14.667202261491829,0.4339596629142761,20.273079000617145,50.189453125,256_fBM_p_FF_no_warp_1_braided_0002.png,,"v3 (same code, w=3, α=1)"
+braided_0002.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.10133305811189,14.454069377751056,0.4276482760906219,21.812966999277705,50.189453125,256_fBM_p_FF_no_warp_2_braided_0002.png,,"v3 (same code, w=3, α=1)"
+braided_0006.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0275053227613484,13.124476383790286,0.3316411077976227,19.75831399977324,50.189453125,256_fBM_p_FF_no_warp_0_braided_0006.png,,"v3 (same code, w=3, α=1)"
+braided_0006.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0164394992566201,13.099761519259005,0.3578361272811889,20.412260999364666,50.189453125,256_fBM_p_FF_no_warp_1_braided_0006.png,,"v3 (same code, w=3, α=1)"
+braided_0006.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0308131641163072,13.1772625558782,0.3381664752960205,19.58369000021776,50.189453125,256_fBM_p_FF_no_warp_2_braided_0006.png,,"v3 (same code, w=3, α=1)"
+braided_0007.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.045264699084342,11.671056340883094,0.4871042370796203,20.36604100067052,50.189453125,256_fBM_p_FF_no_warp_0_braided_0007.png,,"v3 (same code, w=3, α=1)"
+braided_0007.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.038304663403098,11.620714108292452,0.5015053153038025,21.424620999823677,50.189453125,256_fBM_p_FF_no_warp_1_braided_0007.png,,"v3 (same code, w=3, α=1)"
+braided_0007.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0410260273388667,11.448243726911532,0.5109074711799622,23.300976001337403,50.189453125,256_fBM_p_FF_no_warp_2_braided_0007.png,,"v3 (same code, w=3, α=1)"
+braided_0008.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0154341477325778,9.931911578953232,0.3358761370182037,19.842134999635164,50.189453125,256_fBM_p_FF_no_warp_0_braided_0008.png,,"v3 (same code, w=3, α=1)"
+braided_0008.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0146804154196412,9.835325782333555,0.3359173536300659,19.5997829996486,50.189453125,256_fBM_p_FF_no_warp_1_braided_0008.png,,"v3 (same code, w=3, α=1)"
+braided_0008.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0248161936621102,10.020975121373343,0.3455513119697571,20.39662700008193,50.189453125,256_fBM_p_FF_no_warp_2_braided_0008.png,,"v3 (same code, w=3, α=1)"
+braided_0009.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0832206361104941,9.124267538488706,0.4447648823261261,19.897124000635813,50.189453125,256_fBM_p_FF_no_warp_0_braided_0009.png,,"v3 (same code, w=3, α=1)"
+braided_0009.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0567644817715789,9.084345101185344,0.431492805480957,20.289526999476948,50.189453125,256_fBM_p_FF_no_warp_1_braided_0009.png,,"v3 (same code, w=3, α=1)"
+braided_0009.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0849238065647158,9.081156788549766,0.4275662302970886,20.455896999919787,50.189453125,256_fBM_p_FF_no_warp_2_braided_0009.png,,"v3 (same code, w=3, α=1)"
+braided_0013.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0703253603573904,9.001930058271665,0.5696718692779541,20.850872999290004,50.189453125,256_fBM_p_FF_no_warp_0_braided_0013.png,,"v3 (same code, w=3, α=1)"
+braided_0013.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0609923557611644,8.891559871422071,0.5503729581832886,21.561682000537985,50.189453125,256_fBM_p_FF_no_warp_1_braided_0013.png,,"v3 (same code, w=3, α=1)"
+braided_0013.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0546724577098298,8.807865402144508,0.583678662776947,21.129316999576982,50.189453125,256_fBM_p_FF_no_warp_2_braided_0013.png,,"v3 (same code, w=3, α=1)"
+braided_0019.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0395305629809423,11.383707957710584,0.352961003780365,21.708365000449703,50.189453125,256_fBM_p_FF_no_warp_0_braided_0019.png,,"v3 (same code, w=3, α=1)"
+braided_0019.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0368739437516071,11.461757246722936,0.3648109436035156,20.38787899982708,50.189453125,256_fBM_p_FF_no_warp_1_braided_0019.png,,"v3 (same code, w=3, α=1)"
+braided_0019.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0255309985768732,11.227262787482628,0.3402571380138397,22.03093199932482,50.189453125,256_fBM_p_FF_no_warp_2_braided_0019.png,,"v3 (same code, w=3, α=1)"
+braided_0027.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0322802143696231,7.505784490512428,0.5933382511138916,19.733057999474116,50.189453125,256_fBM_p_FF_no_warp_0_braided_0027.png,,"v3 (same code, w=3, α=1)"
+braided_0027.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.022282660234931,7.440135064967601,0.5805841088294983,19.796208000116167,50.189453125,256_fBM_p_FF_no_warp_1_braided_0027.png,,"v3 (same code, w=3, α=1)"
+braided_0027.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0226260842994745,7.420284033457723,0.5870590209960938,20.041317999130115,50.189453125,256_fBM_p_FF_no_warp_2_braided_0027.png,,"v3 (same code, w=3, α=1)"
+braided_0042.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0227187383186796,9.718302948668471,0.4033553600311279,20.122350000747247,50.189453125,256_fBM_p_FF_no_warp_0_braided_0042.png,,"v3 (same code, w=3, α=1)"
+braided_0042.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0270718589394507,9.390456125827216,0.4067059457302093,19.989134001662023,50.189453125,256_fBM_p_FF_no_warp_1_braided_0042.png,,"v3 (same code, w=3, α=1)"
+braided_0042.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0264088085493006,9.613479374173744,0.4030499458312988,21.25106699895696,50.189453125,256_fBM_p_FF_no_warp_2_braided_0042.png,,"v3 (same code, w=3, α=1)"
+braided_0050.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0360648732859704,8.957614086545906,0.4869971573352813,20.98867399945448,50.189453125,256_fBM_p_FF_no_warp_0_braided_0050.png,,"v3 (same code, w=3, α=1)"
+braided_0050.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0350399128082033,8.943312521023586,0.4887388944625854,20.40947400018922,50.189453125,256_fBM_p_FF_no_warp_1_braided_0050.png,,"v3 (same code, w=3, α=1)"
+braided_0050.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0330160467050369,8.370132531050825,0.4959239363670349,20.39742399938405,50.189453125,256_fBM_p_FF_no_warp_2_braided_0050.png,,"v3 (same code, w=3, α=1)"
+braided_0061.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0245413059305662,10.4522998134048,0.4565921723842621,19.978713999080355,50.189453125,256_fBM_p_FF_no_warp_0_braided_0061.png,,"v3 (same code, w=3, α=1)"
+braided_0061.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0507991283834273,10.714817843510486,0.4638928771018982,20.3900930009695,50.189453125,256_fBM_p_FF_no_warp_1_braided_0061.png,,"v3 (same code, w=3, α=1)"
+braided_0061.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0504953190095717,10.64203167360535,0.448931336402893,25.17364600134897,50.189453125,256_fBM_p_FF_no_warp_2_braided_0061.png,,"v3 (same code, w=3, α=1)"
+braided_0064.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.0325934004767518,10.276357398115804,0.2640056312084198,26.69285299998592,50.189453125,256_fBM_p_FF_no_warp_0_braided_0064.png,,"v3 (same code, w=3, α=1)"
+braided_0064.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0254041199965957,10.363869478848844,0.2746284902095794,23.965139998836094,50.189453125,256_fBM_p_FF_no_warp_1_braided_0064.png,,"v3 (same code, w=3, α=1)"
+braided_0064.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.0182673413012593,10.21785777332688,0.2618185877799988,22.256903999732454,50.189453125,256_fBM_p_FF_no_warp_2_braided_0064.png,,"v3 (same code, w=3, α=1)"
+braided_0067.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.033748300683531,9.052179525242313,0.4400903582572937,19.70787900063442,50.189453125,256_fBM_p_FF_no_warp_0_braided_0067.png,,"v3 (same code, w=3, α=1)"
+braided_0067.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.033051661492537,9.075635236967166,0.4409836530685425,20.82625999901211,50.189453125,256_fBM_p_FF_no_warp_1_braided_0067.png,,"v3 (same code, w=3, α=1)"
+braided_0067.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.046205448779112,9.32725181525877,0.4552180469036102,20.162861001153946,50.189453125,256_fBM_p_FF_no_warp_2_braided_0067.png,,"v3 (same code, w=3, α=1)"
+braided_0069.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.1128693742755664,9.99611070340382,0.4473131895065307,19.615429000623408,50.189453125,256_fBM_p_FF_no_warp_0_braided_0069.png,,"v3 (same code, w=3, α=1)"
+braided_0069.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.0993307038075725,10.027044923710042,0.4343874454498291,20.4671209994558,50.189453125,256_fBM_p_FF_no_warp_1_braided_0069.png,,"v3 (same code, w=3, α=1)"
+braided_0069.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.1093205657845368,9.966674093809582,0.4448215067386627,20.4573299997719,50.189453125,256_fBM_p_FF_no_warp_2_braided_0069.png,,"v3 (same code, w=3, α=1)"
+braided_0070.jpg,256,Proposed: fBM + FF (no B-spline),0,braided,0.1236459474813083,6.989944113494779,0.5343461632728577,23.0147450001823,50.189453125,256_fBM_p_FF_no_warp_0_braided_0070.png,,"v3 (same code, w=3, α=1)"
+braided_0070.jpg,256,Proposed: fBM + FF (no B-spline),1,braided,0.1370969754087951,6.958056809741527,0.5375970005989075,20.984088001569035,50.189453125,256_fBM_p_FF_no_warp_1_braided_0070.png,,"v3 (same code, w=3, α=1)"
+braided_0070.jpg,256,Proposed: fBM + FF (no B-spline),2,braided,0.1461593449989551,7.179017442319568,0.5462090969085693,26.163776999965197,50.189453125,256_fBM_p_FF_no_warp_2_braided_0070.png,,"v3 (same code, w=3, α=1)"
+stratified_0027.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0473054180509849,12.27486443302016,0.4903861880302429,20.660043999669146,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0027.png,,"v3 (same code, w=3, α=1)"
+stratified_0027.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.047181083344808,13.11112878693508,0.4781399369239807,21.47089099889854,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0027.png,,"v3 (same code, w=3, α=1)"
+stratified_0027.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.04025448016012,12.651846915227171,0.4738948047161102,20.9762190006586,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0027.png,,"v3 (same code, w=3, α=1)"
+stratified_0042.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.025544495300902,10.098952466343809,0.4076038300991058,19.85743600016576,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0042.png,,"v3 (same code, w=3, α=1)"
+stratified_0042.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0335384599370258,10.072039845386607,0.415863424539566,20.84560299954319,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0042.png,,"v3 (same code, w=3, α=1)"
+stratified_0042.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0167635970223232,9.897200924067851,0.4156594276428222,19.560080001610917,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0042.png,,"v3 (same code, w=3, α=1)"
+stratified_0043.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.098955852351589,13.154880928563834,0.4944179356098175,21.18734299983771,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0043.png,,"v3 (same code, w=3, α=1)"
+stratified_0043.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0927494482516781,12.88807648020457,0.4768437445163727,21.0964639991289,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0043.png,,"v3 (same code, w=3, α=1)"
+stratified_0043.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.096849339778947,12.681387581198546,0.4804372787475586,23.14775400009239,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0043.png,,"v3 (same code, w=3, α=1)"
+stratified_0045.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.1089936874643838,14.351502405511336,0.4448098838329315,24.499511000612983,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0045.png,,"v3 (same code, w=3, α=1)"
+stratified_0045.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0986446674072273,14.034107889535248,0.4701569974422455,20.13816799990309,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0045.png,,"v3 (same code, w=3, α=1)"
+stratified_0045.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0850704385280607,13.867386749703297,0.4772672057151794,19.89463600148156,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0045.png,,"v3 (same code, w=3, α=1)"
+stratified_0046.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0353969545793073,9.710096005209763,0.3952404260635376,20.70790000107081,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0046.png,,"v3 (same code, w=3, α=1)"
+stratified_0046.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0197079701146133,9.926657191759706,0.4097954630851745,20.650030000979317,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0046.png,,"v3 (same code, w=3, α=1)"
+stratified_0046.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0264764129423935,9.948519587862702,0.3871404230594635,20.254895998732536,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0046.png,,"v3 (same code, w=3, α=1)"
+stratified_0047.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.057725788306115,12.46791831545102,0.4565944671630859,19.64412900088064,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0047.png,,"v3 (same code, w=3, α=1)"
+stratified_0047.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0537128720795186,12.020682968998068,0.4734850227832794,20.239337000020896,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0047.png,,"v3 (same code, w=3, α=1)"
+stratified_0047.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0543069147677746,11.777933200815587,0.4768665134906769,21.15675099958025,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0047.png,,"v3 (same code, w=3, α=1)"
+stratified_0048.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0568224381401987,13.000582588022729,0.464268147945404,19.91669500057469,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0048.png,,"v3 (same code, w=3, α=1)"
+stratified_0048.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0573208006309665,12.628246105155856,0.4441505968570709,19.91743500002485,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0048.png,,"v3 (same code, w=3, α=1)"
+stratified_0048.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0600271965069025,12.820345855055074,0.4676373302936554,20.27256600013061,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0048.png,,"v3 (same code, w=3, α=1)"
+stratified_0049.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.2116810563603524,16.078449392903934,0.3772208988666534,19.27559999967343,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0049.png,,"v3 (same code, w=3, α=1)"
+stratified_0049.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.2052119841051204,16.125041352781054,0.3812970817089081,20.17096999952628,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0049.png,,"v3 (same code, w=3, α=1)"
+stratified_0049.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.2062275882565601,16.058830754603004,0.3721533417701721,20.362104998639552,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0049.png,,"v3 (same code, w=3, α=1)"
+stratified_0050.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0958279624574248,15.614529981372293,0.3793436288833618,19.767146000958743,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0050.png,,"v3 (same code, w=3, α=1)"
+stratified_0050.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0951733949729048,16.016120839090846,0.3829571306705475,20.26273000046785,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0050.png,,"v3 (same code, w=3, α=1)"
+stratified_0050.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0905520764441495,15.187732348588984,0.3980910181999206,19.995858001493616,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0050.png,,"v3 (same code, w=3, α=1)"
+stratified_0051.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0227404975346047,10.10993214408932,0.4019750952720642,19.57915399907506,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0051.png,,"v3 (same code, w=3, α=1)"
+stratified_0051.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0291025321723783,9.905445885141257,0.4247823059558868,26.566589000140084,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0051.png,,"v3 (same code, w=3, α=1)"
+stratified_0051.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0145733888742405,9.912836222294551,0.42020383477211,23.701129999608384,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0051.png,,"v3 (same code, w=3, α=1)"
+stratified_0053.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0844663146909404,15.295211719288556,0.5172501802444458,19.733498998903087,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0053.png,,"v3 (same code, w=3, α=1)"
+stratified_0053.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0693896396996635,15.26282720613396,0.4958143532276153,19.62700900003256,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0053.png,,"v3 (same code, w=3, α=1)"
+stratified_0053.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0722158517383539,15.064009878198824,0.5188073515892029,21.721790999436053,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0053.png,,"v3 (same code, w=3, α=1)"
+stratified_0054.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0610426395665171,13.744581451290165,0.3908974528312683,19.63596600035089,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0054.png,,"v3 (same code, w=3, α=1)"
+stratified_0054.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.065595554059379,13.805464577903424,0.3762778043746948,19.88967400029651,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0054.png,,"v3 (same code, w=3, α=1)"
+stratified_0054.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.066200705479293,13.564058513036294,0.3724768161773681,20.46465900093608,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0054.png,,"v3 (same code, w=3, α=1)"
+stratified_0055.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.036634376057154,12.10678351405562,0.4012261033058166,20.81098800044856,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0055.png,,"v3 (same code, w=3, α=1)"
+stratified_0055.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.045833236831217,12.037683384031004,0.414679616689682,21.27110599940352,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0055.png,,"v3 (same code, w=3, α=1)"
+stratified_0055.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0459368830552039,12.177387647436577,0.4065557718276977,21.991690999129787,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0055.png,,"v3 (same code, w=3, α=1)"
+stratified_0056.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0133543604199973,9.397801789845028,0.5298857092857361,23.7009720003698,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0056.png,,"v3 (same code, w=3, α=1)"
+stratified_0056.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0215541714419362,9.503325354685575,0.5303219556808472,20.14461399994616,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0056.png,,"v3 (same code, w=3, α=1)"
+stratified_0056.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0192331594161254,9.558371669956369,0.5382890105247498,19.89182099896425,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0056.png,,"v3 (same code, w=3, α=1)"
+stratified_0057.jpg,256,Proposed: fBM + FF (no B-spline),0,stratified,0.0351410925325682,11.427376758456557,0.4742954969406128,21.33294899977045,50.189453125,256_fBM_p_FF_no_warp_0_stratified_0057.png,,"v3 (same code, w=3, α=1)"
+stratified_0057.jpg,256,Proposed: fBM + FF (no B-spline),1,stratified,0.0251109924876556,11.050949828776314,0.4958817064762115,19.89792399945145,50.189453125,256_fBM_p_FF_no_warp_1_stratified_0057.png,,"v3 (same code, w=3, α=1)"
+stratified_0057.jpg,256,Proposed: fBM + FF (no B-spline),2,stratified,0.0237137065210031,11.301956076941757,0.4817375540733337,20.50857600079325,50.189453125,256_fBM_p_FF_no_warp_2_stratified_0057.png,,"v3 (same code, w=3, α=1)"
+knitted_0023.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0273886541446485,9.775953813600037,0.3787022233009338,24.21384199988097,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0023.png,,"v3 (same code, w=3, α=1)"
+knitted_0023.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0074316771092536,9.696491348414993,0.3821096122264862,22.66848200088134,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0023.png,,"v3 (same code, w=3, α=1)"
+knitted_0023.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0190103755209903,9.66708791318686,0.3889278471469879,21.00634000089485,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0023.png,,"v3 (same code, w=3, α=1)"
+knitted_0072.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0493261045598954,12.939233293873258,0.3573203980922699,20.405925999511965,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0072.png,,"v3 (same code, w=3, α=1)"
+knitted_0072.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0610326226724383,12.74859983511263,0.3630428314208984,20.75770300143631,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0072.png,,"v3 (same code, w=3, α=1)"
+knitted_0072.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0580821725416886,13.071067173100868,0.3480245769023895,21.3281870001083,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0072.png,,"v3 (same code, w=3, α=1)"
+knitted_0073.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.1597234511155878,16.924726032439207,0.6942348480224609,19.949135999922877,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0073.png,,"v3 (same code, w=3, α=1)"
+knitted_0073.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.1564035468805796,16.144779698825953,0.6711375713348389,20.26631700027792,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0073.png,,"v3 (same code, w=3, α=1)"
+knitted_0073.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.1623292645320352,16.63036356564816,0.7176462411880493,22.49484000094526,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0073.png,,"v3 (same code, w=3, α=1)"
+knitted_0075.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0578564473628159,12.06587056901588,0.356021523475647,20.689508999566897,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0075.png,,"v3 (same code, w=3, α=1)"
+knitted_0075.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0271609464721209,11.947792960598369,0.3627369701862335,21.825363999596448,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0075.png,,"v3 (same code, w=3, α=1)"
+knitted_0075.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0252920096881368,12.034434410994708,0.3422189652919769,22.25904599981732,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0075.png,,"v3 (same code, w=3, α=1)"
+knitted_0076.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0474253614318109,12.23442285616284,0.3991122543811798,19.449716000963235,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0076.png,,"v3 (same code, w=3, α=1)"
+knitted_0076.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0375678781426683,12.096237563093023,0.3653625845909118,21.42478600035247,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0076.png,,"v3 (same code, w=3, α=1)"
+knitted_0076.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.040361414084637,12.002296251186282,0.3674484193325043,20.02533300037612,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0076.png,,"v3 (same code, w=3, α=1)"
+knitted_0079.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0630628582786679,16.68321482159174,0.3775946199893951,19.74939399951836,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0079.png,,"v3 (same code, w=3, α=1)"
+knitted_0079.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0476971534791656,16.57522781820038,0.3750608265399933,20.12023099996441,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0079.png,,"v3 (same code, w=3, α=1)"
+knitted_0079.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0571186638205969,16.62325327137551,0.382075548171997,19.975708999481867,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0079.png,,"v3 (same code, w=3, α=1)"
+knitted_0083.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0662976808001948,11.417070257339317,0.376315176486969,23.730278999209983,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0083.png,,"v3 (same code, w=3, α=1)"
+knitted_0083.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.04955607828136,11.344144330654524,0.3893741369247436,22.3347860010108,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0083.png,,"v3 (same code, w=3, α=1)"
+knitted_0083.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.051729353900258,11.457894284799288,0.3759772181510925,23.13249800135964,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0083.png,,"v3 (same code, w=3, α=1)"
+knitted_0085.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0572699377080435,13.33295180837016,0.3465558886528015,19.614438999269623,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0085.png,,"v3 (same code, w=3, α=1)"
+knitted_0085.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0728667119725197,13.434637754767389,0.3388794064521789,20.54883700111532,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0085.png,,"v3 (same code, w=3, α=1)"
+knitted_0085.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0578088450974353,13.390595933689475,0.3409554064273834,19.840318000206025,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0085.png,,"v3 (same code, w=3, α=1)"
+knitted_0087.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0321791179816299,11.824514053424902,0.3301587700843811,20.19229200050177,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0087.png,,"v3 (same code, w=3, α=1)"
+knitted_0087.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0342741101356173,11.850528689507874,0.3072463870048523,20.181846999548725,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0087.png,,"v3 (same code, w=3, α=1)"
+knitted_0087.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0506197504860607,11.889912653352734,0.3254996538162231,20.89824799986673,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0087.png,,"v3 (same code, w=3, α=1)"
+knitted_0089.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.050897415952153,13.48277804337124,0.5324782133102417,19.56179800072277,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0089.png,,"v3 (same code, w=3, α=1)"
+knitted_0089.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0590524056971614,13.852470160632116,0.513240396976471,21.16154500072298,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0089.png,,"v3 (same code, w=3, α=1)"
+knitted_0089.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0583444652087044,14.09974228112489,0.5040143132209778,20.709027001430517,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0089.png,,"v3 (same code, w=3, α=1)"
+knitted_0091.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0503256132982791,15.925982865722473,0.513856053352356,22.2416130000056,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0091.png,,"v3 (same code, w=3, α=1)"
+knitted_0091.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0431496746712612,15.988928403509105,0.5107862949371338,20.96754299964232,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0091.png,,"v3 (same code, w=3, α=1)"
+knitted_0091.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0464811627038947,16.101312380353374,0.4991687834262848,20.784910000656964,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0091.png,,"v3 (same code, w=3, α=1)"
+knitted_0092.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0718375866387607,13.040045076211223,0.4003729224205017,19.925151000279584,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0092.png,,"v3 (same code, w=3, α=1)"
+knitted_0092.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0701104790816698,13.208015747058804,0.3859757781028747,20.42104199972528,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0092.png,,"v3 (same code, w=3, α=1)"
+knitted_0092.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.0834555686875797,12.809190303640028,0.3966031372547149,22.370630998921115,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0092.png,,"v3 (same code, w=3, α=1)"
+knitted_0093.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.1234571669811019,7.433268886286173,0.7508398294448853,19.72336200014979,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0093.png,,"v3 (same code, w=3, α=1)"
+knitted_0093.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.1208402707997956,7.406999985560263,0.7614225149154663,20.35914000043704,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0093.png,,"v3 (same code, w=3, α=1)"
+knitted_0093.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.1220298597025821,7.453828744667264,0.7441209554672241,19.92574900032196,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0093.png,,"v3 (same code, w=3, α=1)"
+knitted_0096.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.1052798666863972,11.761814279799196,0.3513724207878113,21.53215399994224,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0096.png,,"v3 (same code, w=3, α=1)"
+knitted_0096.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.113938237358464,12.160386411401298,0.3635023832321167,21.16264700089232,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0096.png,,"v3 (same code, w=3, α=1)"
+knitted_0096.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.1004366795803636,11.69263933616422,0.3556287288665771,20.874224001090624,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0096.png,,"v3 (same code, w=3, α=1)"
+knitted_0097.jpg,256,Proposed: fBM + FF (no B-spline),0,knitted,0.0498743249528286,12.009727275407958,0.4037182331085205,20.280122000258416,50.189453125,256_fBM_p_FF_no_warp_0_knitted_0097.png,,"v3 (same code, w=3, α=1)"
+knitted_0097.jpg,256,Proposed: fBM + FF (no B-spline),1,knitted,0.0562178668473953,11.981714130821343,0.4091923236846924,22.61834700038889,50.189453125,256_fBM_p_FF_no_warp_1_knitted_0097.png,,"v3 (same code, w=3, α=1)"
+knitted_0097.jpg,256,Proposed: fBM + FF (no B-spline),2,knitted,0.036616246225826,11.895483864226456,0.3856080770492553,20.628014999601877,50.189453125,256_fBM_p_FF_no_warp_2_knitted_0097.png,,"v3 (same code, w=3, α=1)"
+marbled_0035.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.1182510188451588,16.646172911176645,0.3401896953582763,20.857657000306062,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0035.png,,"v3 (same code, w=3, α=1)"
+marbled_0035.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.1345461846837923,16.969025676613402,0.3478737473487854,21.177985001486377,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0035.png,,"v3 (same code, w=3, α=1)"
+marbled_0035.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1319145878425204,17.035933104533846,0.3583872318267822,21.279673999742958,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0035.png,,"v3 (same code, w=3, α=1)"
+marbled_0072.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.2097647142467915,11.018048404097616,0.3885103166103363,21.31382500010659,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0072.png,,"v3 (same code, w=3, α=1)"
+marbled_0072.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.1970911098749891,10.987949212999846,0.4139204919338226,21.449939000376617,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0072.png,,"v3 (same code, w=3, α=1)"
+marbled_0072.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1998890685023036,11.038590399143594,0.4045237600803375,21.01479299926723,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0072.png,,"v3 (same code, w=3, α=1)"
+marbled_0073.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.0674457730762591,15.193164441542836,0.4454284906387329,20.1082290004706,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0073.png,,"v3 (same code, w=3, α=1)"
+marbled_0073.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.0664007943179068,15.306175684962476,0.4153850674629211,21.090988999276306,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0073.png,,"v3 (same code, w=3, α=1)"
+marbled_0073.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.0708576537099446,15.40189042103593,0.430432915687561,19.80497399927117,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0073.png,,"v3 (same code, w=3, α=1)"
+marbled_0074.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.3400503603656462,17.263129271877908,0.3157431185245514,21.33814399894618,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0074.png,,"v3 (same code, w=3, α=1)"
+marbled_0074.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.3266874528365994,17.270251215092788,0.2928433120250702,20.76437199866632,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0074.png,,"v3 (same code, w=3, α=1)"
+marbled_0074.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.3325119924694461,17.243245946576884,0.3163476586341858,19.97771500100498,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0074.png,,"v3 (same code, w=3, α=1)"
+marbled_0075.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.1287581674749914,11.173863351843352,0.5354072451591492,25.446865000049,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0075.png,,"v3 (same code, w=3, α=1)"
+marbled_0075.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.1264666822275173,11.168131881586705,0.529060959815979,20.10517100097786,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0075.png,,"v3 (same code, w=3, α=1)"
+marbled_0075.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1154870111741618,11.19149832434719,0.5542070269584656,20.528291999653447,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0075.png,,"v3 (same code, w=3, α=1)"
+marbled_0076.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.1908051852506961,8.140286251479477,0.4776984453201294,20.6441829996038,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0076.png,,"v3 (same code, w=3, α=1)"
+marbled_0076.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.1839530189510385,8.127685245402308,0.486327201128006,20.30161299990141,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0076.png,,"v3 (same code, w=3, α=1)"
+marbled_0076.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1839691153710773,8.08293649321985,0.4886351227760315,20.7786289993237,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0076.png,,"v3 (same code, w=3, α=1)"
+marbled_0078.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.1255576486194978,16.345621415748266,0.3743560910224914,20.250158999260748,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0078.png,,"v3 (same code, w=3, α=1)"
+marbled_0078.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.130493768400471,16.423437143140255,0.3728262782096863,20.74171400090563,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0078.png,,"v3 (same code, w=3, α=1)"
+marbled_0078.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1244556463268919,16.333223446083025,0.3726648390293121,21.718538000641274,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0078.png,,"v3 (same code, w=3, α=1)"
+marbled_0079.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.0984261682299887,16.65449717776949,0.4102646708488464,21.87840999977197,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0079.png,,"v3 (same code, w=3, α=1)"
+marbled_0079.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.0970121842143013,16.681339583372836,0.4166462421417236,23.89712799958943,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0079.png,,"v3 (same code, w=3, α=1)"
+marbled_0079.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1054133320608689,16.61544577003664,0.4487169086933136,23.10047699938877,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0079.png,,"v3 (same code, w=3, α=1)"
+marbled_0080.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.1143512478428934,16.003740119174545,0.3659518361091614,20.66544999979669,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0080.png,,"v3 (same code, w=3, α=1)"
+marbled_0080.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.0998972244357594,15.904725466547674,0.3654505610466003,20.875842999885208,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0080.png,,"v3 (same code, w=3, α=1)"
+marbled_0080.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.1048329968739518,15.780022191923752,0.3493040204048157,20.803614999749698,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0080.png,,"v3 (same code, w=3, α=1)"
+marbled_0081.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.0623243099661863,15.962735459538788,0.3824671506881714,22.70139299980656,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0081.png,,"v3 (same code, w=3, α=1)"
+marbled_0081.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.0667447208386797,16.05561867712853,0.3817310929298401,22.046860000045854,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0081.png,,"v3 (same code, w=3, α=1)"
+marbled_0081.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.0832516442009934,16.054403768965614,0.3378300070762634,20.995319000576277,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0081.png,,"v3 (same code, w=3, α=1)"
+marbled_0082.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.2099959662558708,13.00355306156266,0.4686446785926819,20.19681999991008,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0082.png,,"v3 (same code, w=3, α=1)"
+marbled_0082.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.2082096415101109,13.07201085403131,0.4493675529956817,20.55977000054554,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0082.png,,"v3 (same code, w=3, α=1)"
+marbled_0082.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.2037992052304849,12.97768669494208,0.4423359334468841,20.32998899994709,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0082.png,,"v3 (same code, w=3, α=1)"
+marbled_0085.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.3526258237733057,21.01892604075406,0.4869426190853119,20.576809998601675,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0085.png,,"v3 (same code, w=3, α=1)"
+marbled_0085.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.3694002735850243,20.92916347692375,0.4820678532123565,22.783800999604864,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0085.png,,"v3 (same code, w=3, α=1)"
+marbled_0085.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.3470169403802474,20.61905345306096,0.4667924344539642,20.30502300112857,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0085.png,,"v3 (same code, w=3, α=1)"
+marbled_0086.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.7016398167061396,14.823143500669993,0.3722847700119018,21.02878699952271,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0086.png,,"v3 (same code, w=3, α=1)"
+marbled_0086.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.7047210832816996,14.78431886843291,0.3885594606399536,21.34111599843891,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0086.png,,"v3 (same code, w=3, α=1)"
+marbled_0086.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.707218492640093,14.843594190422763,0.3777347505092621,26.89247199850797,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0086.png,,"v3 (same code, w=3, α=1)"
+marbled_0087.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.7209687873610554,16.407409965669373,0.3316375613212585,19.95531300053699,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0087.png,,"v3 (same code, w=3, α=1)"
+marbled_0087.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.7290508464435479,16.405265210340076,0.33565354347229,19.97932899939769,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0087.png,,"v3 (same code, w=3, α=1)"
+marbled_0087.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.7174470803416837,16.468646247293474,0.3324191272258758,20.12279000155104,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0087.png,,"v3 (same code, w=3, α=1)"
+marbled_0088.jpg,256,Proposed: fBM + FF (no B-spline),0,marbled,0.0228696948455258,12.023929922566428,0.4414614737033844,23.645658999157604,50.189453125,256_fBM_p_FF_no_warp_0_marbled_0088.png,,"v3 (same code, w=3, α=1)"
+marbled_0088.jpg,256,Proposed: fBM + FF (no B-spline),1,marbled,0.0262275395292016,11.923877478839524,0.4523888230323791,20.17274199897656,50.189453125,256_fBM_p_FF_no_warp_1_marbled_0088.png,,"v3 (same code, w=3, α=1)"
+marbled_0088.jpg,256,Proposed: fBM + FF (no B-spline),2,marbled,0.0331237643984884,12.150462868286336,0.4477103352546692,19.91693099989789,50.189453125,256_fBM_p_FF_no_warp_2_marbled_0088.png,,"v3 (same code, w=3, α=1)"
+woven_0001.jpg,512,Proposed: fBM + FF (no B-spline),0,woven,0.04833089978104838,9.81842483573644,0.5803571343421936,83.18508800039126,186.0,512_Proposed_fBM_FF_no_B_spline_0_woven_0001.png,,v4
+woven_0001.jpg,512,Proposed: fBM + FF (no B-spline),1,woven,0.05013654279653567,9.762070689693106,0.5631779432296753,83.19162899988441,186.0,512_Proposed_fBM_FF_no_B_spline_1_woven_0001.png,,v4
+woven_0001.jpg,512,Proposed: fBM + FF (no B-spline),2,woven,0.040265334158689076,9.519985543733888,0.5602710247039795,85.00831800029118,186.0,512_Proposed_fBM_FF_no_B_spline_2_woven_0001.png,,v4
+woven_0002.jpg,512,Proposed: fBM + FF (no B-spline),0,woven,0.29604531795184963,18.36972238144579,0.45051541924476624,83.34018000005017,186.0,512_Proposed_fBM_FF_no_B_spline_0_woven_0002.png,,v4
+woven_0002.jpg,512,Proposed: fBM + FF (no B-spline),1,woven,0.28558323992798273,18.13973596135928,0.45122432708740234,82.86148299976048,186.0,512_Proposed_fBM_FF_no_B_spline_1_woven_0002.png,,v4
+woven_0002.jpg,512,Proposed: fBM + FF (no B-spline),2,woven,0.28150102482165423,18.34852158866812,0.44445890188217163,83.46023700050864,186.0,512_Proposed_fBM_FF_no_B_spline_2_woven_0002.png,,v4
+woven_0003.jpg,512,Proposed: fBM + FF (no B-spline),0,woven,0.04058430439646358,8.5841175122941,0.6046019196510315,84.9576110003909,186.0,512_Proposed_fBM_FF_no_B_spline_0_woven_0003.png,,v4
+woven_0003.jpg,512,Proposed: fBM + FF (no B-spline),1,woven,0.036734598812301594,8.428114912552857,0.607407808303833,84.29802600039693,186.0,512_Proposed_fBM_FF_no_B_spline_1_woven_0003.png,,v4
+woven_0003.jpg,512,Proposed: fBM + FF (no B-spline),2,woven,0.041568451987036514,8.521484638916691,0.597611665725708,84.31637700050487,186.0,512_Proposed_fBM_FF_no_B_spline_2_woven_0003.png,,v4
+woven_0004.jpg,512,Proposed: fBM + FF (no B-spline),0,woven,0.02472306476474767,11.716481088104336,0.5054670572280884,86.45619799972337,186.0,512_Proposed_fBM_FF_no_B_spline_0_woven_0004.png,,v4
+woven_0004.jpg,512,Proposed: fBM + FF (no B-spline),1,woven,0.008965449574342177,11.577234172303195,0.5184460878372192,84.79949199954717,186.0,512_Proposed_fBM_FF_no_B_spline_1_woven_0004.png,,v4
+woven_0004.jpg,512,Proposed: fBM + FF (no B-spline),2,woven,0.024453461332924347,11.705944526036978,0.5332215428352356,81.73388500017609,186.0,512_Proposed_fBM_FF_no_B_spline_2_woven_0004.png,,v4
+woven_0005.jpg,512,Proposed: fBM + FF (no B-spline),0,woven,0.10055414306587374,12.97127601300386,0.5000343322753906,83.48787900013122,186.0,512_Proposed_fBM_FF_no_B_spline_0_woven_0005.png,,v4
+woven_0005.jpg,512,Proposed: fBM + FF (no B-spline),1,woven,0.09835575926849979,12.92071195950468,0.5060831904411316,83.14353599962487,186.0,512_Proposed_fBM_FF_no_B_spline_1_woven_0005.png,,v4
+woven_0005.jpg,512,Proposed: fBM + FF (no B-spline),2,woven,0.10130700308779336,12.96989273123825,0.497261643409729,80.66801000040869,186.0,512_Proposed_fBM_FF_no_B_spline_2_woven_0005.png,,v4
+woven_0007.jpg,512,Proposed: fBM + FF (no B-spline),0,woven,0.03267185266448766,7.978126381380497,0.5348021984100342,79.74782699966454,186.0,512_Proposed_fBM_FF_no_B_spline_0_woven_0007.png,,v4
+woven_0007.jpg,512,Proposed: fBM + FF (no B-spline),1,woven,0.0471189756473672,7.94225110973287,0.5407171249389648,79.21826199981297,186.0,512_Proposed_fBM_FF_no_B_spline_1_woven_0007.png,,v4
+woven_0007.jpg,512,Proposed: fBM + FF (no B-spline),2,woven,0.04356554477964457,7.902880939016482,0.5244581699371338,83.54961300028663,186.0,512_Proposed_fBM_FF_no_B_spline_2_woven_0007.png,,v4
+braided_0002.jpg,512,Proposed: fBM + FF (no B-spline),0,braided,0.17984183046976115,15.277963387478241,0.513951301574707,81.03109000057884,186.0,512_Proposed_fBM_FF_no_B_spline_0_braided_0002.png,,v4
+braided_0002.jpg,512,Proposed: fBM + FF (no B-spline),1,braided,0.17629118207750005,15.316472424444175,0.5216542482376099,79.29630499984341,186.0,512_Proposed_fBM_FF_no_B_spline_1_braided_0002.png,,v4
+braided_0002.jpg,512,Proposed: fBM + FF (no B-spline),2,braided,0.16605579327029044,15.179000565792949,0.510834813117981,80.11351300046954,186.0,512_Proposed_fBM_FF_no_B_spline_2_braided_0002.png,,v4
+braided_0006.jpg,512,Proposed: fBM + FF (no B-spline),0,braided,0.04767930662953589,13.078333699167455,0.4131506383419037,80.92762300020695,186.0,512_Proposed_fBM_FF_no_B_spline_0_braided_0006.png,,v4
+braided_0006.jpg,512,Proposed: fBM + FF (no B-spline),1,braided,0.04344509710808271,12.948794880696607,0.4382416009902954,82.17438499923446,186.0,512_Proposed_fBM_FF_no_B_spline_1_braided_0006.png,,v4
+braided_0006.jpg,512,Proposed: fBM + FF (no B-spline),2,braided,0.052781896375720935,13.049634393373069,0.44437283277511597,81.10687899988989,186.0,512_Proposed_fBM_FF_no_B_spline_2_braided_0006.png,,v4
+braided_0007.jpg,512,Proposed: fBM + FF (no B-spline),0,braided,0.05898434448413945,11.696229930070652,0.4893629550933838,78.99107299999741,186.0,512_Proposed_fBM_FF_no_B_spline_0_braided_0007.png,,v4
+braided_0007.jpg,512,Proposed: fBM + FF (no B-spline),1,braided,0.059026506629072745,11.609893579308805,0.49809888005256653,82.3196060000555,186.0,512_Proposed_fBM_FF_no_B_spline_1_braided_0007.png,,v4
+braided_0007.jpg,512,Proposed: fBM + FF (no B-spline),2,braided,0.05791187753045927,11.428628354950305,0.4815620183944702,82.65711999956693,186.0,512_Proposed_fBM_FF_no_B_spline_2_braided_0007.png,,v4
+braided_0008.jpg,512,Proposed: fBM + FF (no B-spline),0,braided,0.04678500587625019,9.600934931648727,0.509809136390686,80.92964299976302,186.0,512_Proposed_fBM_FF_no_B_spline_0_braided_0008.png,,v4
+braided_0008.jpg,512,Proposed: fBM + FF (no B-spline),1,braided,0.047921232498013076,9.64010503586146,0.520542562007904,82.3292790000778,186.0,512_Proposed_fBM_FF_no_B_spline_1_braided_0008.png,,v4
+braided_0008.jpg,512,Proposed: fBM + FF (no B-spline),2,braided,0.04768787114723386,9.718104196559414,0.5146900415420532,80.3290410003683,186.0,512_Proposed_fBM_FF_no_B_spline_2_braided_0008.png,,v4
+braided_0009.jpg,512,Proposed: fBM + FF (no B-spline),0,braided,0.1788672474221506,9.693262204567805,0.5815639495849609,80.97963199998048,186.0,512_Proposed_fBM_FF_no_B_spline_0_braided_0009.png,,v4
+braided_0009.jpg,512,Proposed: fBM + FF (no B-spline),1,braided,0.17971187939730754,9.71129524006464,0.5887529253959656,81.73835700017662,186.0,512_Proposed_fBM_FF_no_B_spline_1_braided_0009.png,,v4
+braided_0009.jpg,512,Proposed: fBM + FF (no B-spline),2,braided,0.18121666659153582,9.657597712355276,0.5867260098457336,82.98500799992325,186.0,512_Proposed_fBM_FF_no_B_spline_2_braided_0009.png,,v4
+braided_0013.jpg,512,Proposed: fBM + FF (no B-spline),0,braided,0.07233746885559225,10.065330693775083,0.5551528334617615,80.38945399948716,186.0,512_Proposed_fBM_FF_no_B_spline_0_braided_0013.png,,v4
+braided_0013.jpg,512,Proposed: fBM + FF (no B-spline),1,braided,0.0657922429809032,10.008640836603078,0.5500701069831848,81.22604500022135,186.0,512_Proposed_fBM_FF_no_B_spline_1_braided_0013.png,,v4
+braided_0013.jpg,512,Proposed: fBM + FF (no B-spline),2,braided,0.060331176675521826,9.869707982504536,0.5597637891769409,78.52963999994245,186.0,512_Proposed_fBM_FF_no_B_spline_2_braided_0013.png,,v4
+stratified_0027.jpg,512,Proposed: fBM + FF (no B-spline),0,stratified,0.06749404882406097,12.279333905115733,0.505196213722229,80.94439300020895,186.0,512_Proposed_fBM_FF_no_B_spline_0_stratified_0027.png,,v4
+stratified_0027.jpg,512,Proposed: fBM + FF (no B-spline),1,stratified,0.06831111547863063,12.680144962852403,0.5028679966926575,77.86774199939828,186.0,512_Proposed_fBM_FF_no_B_spline_1_stratified_0027.png,,v4
+stratified_0027.jpg,512,Proposed: fBM + FF (no B-spline),2,stratified,0.07529227119598716,12.585958816432512,0.5058666467666626,81.27448199957144,186.0,512_Proposed_fBM_FF_no_B_spline_2_stratified_0027.png,,v4
+stratified_0042.jpg,512,Proposed: fBM + FF (no B-spline),0,stratified,0.057392598079645356,10.095529815866012,0.5063759684562683,77.85537800009479,186.0,512_Proposed_fBM_FF_no_B_spline_0_stratified_0042.png,,v4
+stratified_0042.jpg,512,Proposed: fBM + FF (no B-spline),1,stratified,0.060700122553693336,10.150549215402604,0.5020711421966553,81.5874640002221,186.0,512_Proposed_fBM_FF_no_B_spline_1_stratified_0042.png,,v4
+stratified_0042.jpg,512,Proposed: fBM + FF (no B-spline),2,stratified,0.05634873303313868,9.825066793720117,0.5016880631446838,79.09866899990448,186.0,512_Proposed_fBM_FF_no_B_spline_2_stratified_0042.png,,v4
+stratified_0043.jpg,512,Proposed: fBM + FF (no B-spline),0,stratified,0.1729285930450904,13.489730260492658,0.5230328440666199,79.241832999287,186.0,512_Proposed_fBM_FF_no_B_spline_0_stratified_0043.png,,v4
+stratified_0043.jpg,512,Proposed: fBM + FF (no B-spline),1,stratified,0.1677624367922644,13.389690387617513,0.5385040044784546,81.03028700043069,186.0,512_Proposed_fBM_FF_no_B_spline_1_stratified_0043.png,,v4
+stratified_0043.jpg,512,Proposed: fBM + FF (no B-spline),2,stratified,0.16604980468003952,13.106873168890552,0.5260854363441467,81.52140800029883,186.0,512_Proposed_fBM_FF_no_B_spline_2_stratified_0043.png,,v4
+stratified_0045.jpg,512,Proposed: fBM + FF (no B-spline),0,stratified,0.13282808662369935,13.453139811780652,0.5110312700271606,84.64342599927477,186.0,512_Proposed_fBM_FF_no_B_spline_0_stratified_0045.png,,v4
+stratified_0045.jpg,512,Proposed: fBM + FF (no B-spline),1,stratified,0.13109839761506342,13.230667449973915,0.5261190533638,80.34115400005248,186.0,512_Proposed_fBM_FF_no_B_spline_1_stratified_0045.png,,v4
+stratified_0045.jpg,512,Proposed: fBM + FF (no B-spline),2,stratified,0.13439694443103115,13.150841748904236,0.5357639789581299,79.30358600060572,186.0,512_Proposed_fBM_FF_no_B_spline_2_stratified_0045.png,,v4
+stratified_0046.jpg,512,Proposed: fBM + FF (no B-spline),0,stratified,0.038546543242279324,9.488090609335027,0.48341894149780273,81.93028200003027,186.0,512_Proposed_fBM_FF_no_B_spline_0_stratified_0046.png,,v4
+stratified_0046.jpg,512,Proposed: fBM + FF (no B-spline),1,stratified,0.04050794423434524,9.582261321644957,0.4949244558811188,80.1638710008774,186.0,512_Proposed_fBM_FF_no_B_spline_1_stratified_0046.png,,v4
+stratified_0046.jpg,512,Proposed: fBM + FF (no B-spline),2,stratified,0.04680087789492628,9.677994353105257,0.477589875459671,84.03692899992166,186.0,512_Proposed_fBM_FF_no_B_spline_2_stratified_0046.png,,v4
+stratified_0047.jpg,512,Proposed: fBM + FF (no B-spline),0,stratified,0.10708745438090954,12.969176448554672,0.5007896423339844,78.47906299957685,186.0,512_Proposed_fBM_FF_no_B_spline_0_stratified_0047.png,,v4
+stratified_0047.jpg,512,Proposed: fBM + FF (no B-spline),1,stratified,0.10435028512741762,12.729257093523698,0.515490710735321,80.30695799971,186.0,512_Proposed_fBM_FF_no_B_spline_1_stratified_0047.png,,v4
+stratified_0047.jpg,512,Proposed: fBM + FF (no B-spline),2,stratified,0.10173482977461705,12.505709949806537,0.5126297473907471,81.45245899959264,186.0,512_Proposed_fBM_FF_no_B_spline_2_stratified_0047.png,,v4
+knitted_0023.jpg,512,Proposed: fBM + FF (no B-spline),0,knitted,0.06791454363734184,9.91793562839425,0.46296226978302,81.19917400017584,186.0,512_Proposed_fBM_FF_no_B_spline_0_knitted_0023.png,,v4
+knitted_0023.jpg,512,Proposed: fBM + FF (no B-spline),1,knitted,0.059273436060386445,9.773141389418504,0.47344160079956055,80.89660399946297,186.0,512_Proposed_fBM_FF_no_B_spline_1_knitted_0023.png,,v4
+knitted_0023.jpg,512,Proposed: fBM + FF (no B-spline),2,knitted,0.06652683944404701,9.860533275796863,0.46936333179473877,79.149299999699,186.0,512_Proposed_fBM_FF_no_B_spline_2_knitted_0023.png,,v4
+knitted_0072.jpg,512,Proposed: fBM + FF (no B-spline),0,knitted,0.10003130542080904,13.02251240514191,0.47785520553588867,79.05497399951855,186.0,512_Proposed_fBM_FF_no_B_spline_0_knitted_0072.png,,v4
+knitted_0072.jpg,512,Proposed: fBM + FF (no B-spline),1,knitted,0.10452755704702515,12.930595768688333,0.48659902811050415,78.06908900056442,186.0,512_Proposed_fBM_FF_no_B_spline_1_knitted_0072.png,,v4
+knitted_0072.jpg,512,Proposed: fBM + FF (no B-spline),2,knitted,0.10142893395721674,13.144906539641658,0.48452916741371155,78.36150700040889,186.0,512_Proposed_fBM_FF_no_B_spline_2_knitted_0072.png,,v4
+knitted_0073.jpg,512,Proposed: fBM + FF (no B-spline),0,knitted,0.21888585156349058,16.8076852534059,0.5937160849571228,81.82248899993283,186.0,512_Proposed_fBM_FF_no_B_spline_0_knitted_0073.png,,v4
+knitted_0073.jpg,512,Proposed: fBM + FF (no B-spline),1,knitted,0.20916537563743373,16.352648063276092,0.5900814533233643,81.019125000239,186.0,512_Proposed_fBM_FF_no_B_spline_1_knitted_0073.png,,v4
+knitted_0073.jpg,512,Proposed: fBM + FF (no B-spline),2,knitted,0.22268108045247761,16.817228393622575,0.5845209956169128,81.8081160005022,186.0,512_Proposed_fBM_FF_no_B_spline_2_knitted_0073.png,,v4
+knitted_0075.jpg,512,Proposed: fBM + FF (no B-spline),0,knitted,0.0865692404764579,12.178968699535373,0.45474591851234436,80.1302610007042,186.0,512_Proposed_fBM_FF_no_B_spline_0_knitted_0075.png,,v4
+knitted_0075.jpg,512,Proposed: fBM + FF (no B-spline),1,knitted,0.08273354898637007,12.118069521472343,0.46478962898254395,81.82878600018739,186.0,512_Proposed_fBM_FF_no_B_spline_1_knitted_0075.png,,v4
+knitted_0075.jpg,512,Proposed: fBM + FF (no B-spline),2,knitted,0.08227325327947156,12.313727230004153,0.45549845695495605,82.33902900065004,186.0,512_Proposed_fBM_FF_no_B_spline_2_knitted_0075.png,,v4
+knitted_0076.jpg,512,Proposed: fBM + FF (no B-spline),0,knitted,0.08276504463442327,12.34270782865671,0.542151689529419,82.86212500024703,186.0,512_Proposed_fBM_FF_no_B_spline_0_knitted_0076.png,,v4
+knitted_0076.jpg,512,Proposed: fBM + FF (no B-spline),1,knitted,0.08398210443791675,12.261443294620404,0.5314347743988037,81.81167600014305,186.0,512_Proposed_fBM_FF_no_B_spline_1_knitted_0076.png,,v4
+knitted_0076.jpg,512,Proposed: fBM + FF (no B-spline),2,knitted,0.08290927759668175,12.229139174747857,0.532944917678833,81.85107400004199,186.0,512_Proposed_fBM_FF_no_B_spline_2_knitted_0076.png,,v4
+knitted_0079.jpg,512,Proposed: fBM + FF (no B-spline),0,knitted,0.1023045240834087,17.080275006824234,0.45005667209625244,81.1403239995343,186.0,512_Proposed_fBM_FF_no_B_spline_0_knitted_0079.png,,v4
+knitted_0079.jpg,512,Proposed: fBM + FF (no B-spline),1,knitted,0.10040189859176858,17.02233327726355,0.4370371103286743,79.39502200042625,186.0,512_Proposed_fBM_FF_no_B_spline_1_knitted_0079.png,,v4
+knitted_0079.jpg,512,Proposed: fBM + FF (no B-spline),2,knitted,0.09646999788923677,17.13790714663517,0.4447724521160126,82.80664700032503,186.0,512_Proposed_fBM_FF_no_B_spline_2_knitted_0079.png,,v4
+marbled_0035.jpg,512,Proposed: fBM + FF (no B-spline),0,marbled,0.22137549165459505,17.555926827613764,0.4804226756095886,83.19503100028669,186.0,512_Proposed_fBM_FF_no_B_spline_0_marbled_0035.png,,v4
+marbled_0035.jpg,512,Proposed: fBM + FF (no B-spline),1,marbled,0.23315548842593606,17.57525725543826,0.4912836253643036,79.26448899979732,186.0,512_Proposed_fBM_FF_no_B_spline_1_marbled_0035.png,,v4
+marbled_0035.jpg,512,Proposed: fBM + FF (no B-spline),2,marbled,0.23171146763888398,17.801263444420815,0.4897003173828125,78.82030899963866,186.0,512_Proposed_fBM_FF_no_B_spline_2_marbled_0035.png,,v4
+marbled_0072.jpg,512,Proposed: fBM + FF (no B-spline),0,marbled,0.296504525892949,10.165520709132409,0.5153783559799194,82.9620940003224,186.0,512_Proposed_fBM_FF_no_B_spline_0_marbled_0072.png,,v4
+marbled_0072.jpg,512,Proposed: fBM + FF (no B-spline),1,marbled,0.2968774192130949,10.220844258991328,0.49580326676368713,87.04439000030106,186.0,512_Proposed_fBM_FF_no_B_spline_1_marbled_0072.png,,v4
+marbled_0072.jpg,512,Proposed: fBM + FF (no B-spline),2,marbled,0.29560494855941877,10.248642998773189,0.5074337124824524,83.94107899948722,186.0,512_Proposed_fBM_FF_no_B_spline_2_marbled_0072.png,,v4
+marbled_0073.jpg,512,Proposed: fBM + FF (no B-spline),0,marbled,0.0807105056184524,14.731462088031648,0.5340141654014587,83.20779599944217,186.0,512_Proposed_fBM_FF_no_B_spline_0_marbled_0073.png,,v4
+marbled_0073.jpg,512,Proposed: fBM + FF (no B-spline),1,marbled,0.07158303798985033,14.787458161485112,0.5260932445526123,83.3756820002236,186.0,512_Proposed_fBM_FF_no_B_spline_1_marbled_0073.png,,v4
+marbled_0073.jpg,512,Proposed: fBM + FF (no B-spline),2,marbled,0.07976485492324192,14.65782293004654,0.5269394516944885,83.68904500002827,186.0,512_Proposed_fBM_FF_no_B_spline_2_marbled_0073.png,,v4
+marbled_0074.jpg,512,Proposed: fBM + FF (no B-spline),0,marbled,0.37821609829852215,17.09436369442538,0.4337003827095032,80.39128400014306,186.0,512_Proposed_fBM_FF_no_B_spline_0_marbled_0074.png,,v4
+marbled_0074.jpg,512,Proposed: fBM + FF (no B-spline),1,marbled,0.37294586550971615,17.100263867772732,0.4225721061229706,79.9964709995038,186.0,512_Proposed_fBM_FF_no_B_spline_1_marbled_0074.png,,v4
+marbled_0074.jpg,512,Proposed: fBM + FF (no B-spline),2,marbled,0.37610452096362534,17.078459047337585,0.4290345311164856,81.85302499987301,186.0,512_Proposed_fBM_FF_no_B_spline_2_marbled_0074.png,,v4
+marbled_0075.jpg,512,Proposed: fBM + FF (no B-spline),0,marbled,0.20336075485407248,9.67398731386911,0.5951944589614868,82.61904199935088,186.0,512_Proposed_fBM_FF_no_B_spline_0_marbled_0075.png,,v4
+marbled_0075.jpg,512,Proposed: fBM + FF (no B-spline),1,marbled,0.19881952054967686,9.71732085094706,0.5901712775230408,80.99640799991903,186.0,512_Proposed_fBM_FF_no_B_spline_1_marbled_0075.png,,v4
+marbled_0075.jpg,512,Proposed: fBM + FF (no B-spline),2,marbled,0.20972457040453427,9.74102784335192,0.6059325337409973,80.07234999968205,186.0,512_Proposed_fBM_FF_no_B_spline_2_marbled_0075.png,,v4
+marbled_0076.jpg,512,Proposed: fBM + FF (no B-spline),0,marbled,0.28683872578082426,7.441261286705293,0.5553267598152161,82.55730400014727,186.0,512_Proposed_fBM_FF_no_B_spline_0_marbled_0076.png,,v4
+marbled_0076.jpg,512,Proposed: fBM + FF (no B-spline),1,marbled,0.2849673079687912,7.441017501685215,0.5617765188217163,82.84897500016086,186.0,512_Proposed_fBM_FF_no_B_spline_1_marbled_0076.png,,v4
+marbled_0076.jpg,512,Proposed: fBM + FF (no B-spline),2,marbled,0.27846510930750296,7.416709116153165,0.5504603981971741,81.87409399943135,186.0,512_Proposed_fBM_FF_no_B_spline_2_marbled_0076.png,,v4
+woven_0001.jpg,256,White noise + FF,0,woven,0.022133462229439464,9.904447478695566,0.35267192125320435,19.2417589996694,50.001953125,256_White_noise_FF_0_woven_0001.png,,v4
+woven_0001.jpg,256,White noise + FF,1,woven,0.002520172846463649,9.884983996104381,0.3460749685764313,18.873971000175516,50.001953125,256_White_noise_FF_1_woven_0001.png,,v4
+woven_0001.jpg,256,White noise + FF,2,woven,0.005930023547141041,9.844540793706138,0.3369462490081787,18.92004999990604,50.001953125,256_White_noise_FF_2_woven_0001.png,,v4
+woven_0002.jpg,256,White noise + FF,0,woven,0.20075322335806936,17.206403550167355,0.3760479688644409,18.74494700041396,50.001953125,256_White_noise_FF_0_woven_0002.png,,v4
+woven_0002.jpg,256,White noise + FF,1,woven,0.228463574360459,17.41854188143315,0.36242997646331787,18.851865000215184,50.001953125,256_White_noise_FF_1_woven_0002.png,,v4
+woven_0002.jpg,256,White noise + FF,2,woven,0.22997642610910068,17.485415669839025,0.37875840067863464,18.80528600031539,50.001953125,256_White_noise_FF_2_woven_0002.png,,v4
+woven_0003.jpg,256,White noise + FF,0,woven,0.03189723328687693,10.735255410741056,0.5740320086479187,19.005449999895063,50.001953125,256_White_noise_FF_0_woven_0003.png,,v4
+woven_0003.jpg,256,White noise + FF,1,woven,0.03049927361779012,10.68305970036638,0.5849195718765259,19.131580999783182,50.001953125,256_White_noise_FF_1_woven_0003.png,,v4
+woven_0003.jpg,256,White noise + FF,2,woven,0.025777641262330536,10.767134058297279,0.5795862674713135,21.366262999436003,50.001953125,256_White_noise_FF_2_woven_0003.png,,v4
+woven_0004.jpg,256,White noise + FF,0,woven,0.00978703192814262,12.121871763220827,0.37276726961135864,18.766201000289584,50.001953125,256_White_noise_FF_0_woven_0004.png,,v4
+woven_0004.jpg,256,White noise + FF,1,woven,0.02671764324469972,12.045172820190457,0.3401106894016266,21.30896299968299,50.001953125,256_White_noise_FF_1_woven_0004.png,,v4
+woven_0004.jpg,256,White noise + FF,2,woven,0.03490025786000918,12.129376423974524,0.383809357881546,18.882117999964976,50.001953125,256_White_noise_FF_2_woven_0004.png,,v4
+woven_0005.jpg,256,White noise + FF,0,woven,0.047493321441404404,13.603644604941783,0.5427719950675964,19.044061999920814,50.001953125,256_White_noise_FF_0_woven_0005.png,,v4
+woven_0005.jpg,256,White noise + FF,1,woven,0.04491718584655559,13.612372632147853,0.5308442115783691,18.782775999170553,50.001953125,256_White_noise_FF_1_woven_0005.png,,v4
+woven_0005.jpg,256,White noise + FF,2,woven,0.04535171971031488,13.58073142676366,0.5329796671867371,19.031079999876965,50.001953125,256_White_noise_FF_2_woven_0005.png,,v4
+woven_0007.jpg,256,White noise + FF,0,woven,0.020367561292126846,8.651283323559833,0.3959565758705139,18.9477279991479,50.001953125,256_White_noise_FF_0_woven_0007.png,,v4
+woven_0007.jpg,256,White noise + FF,1,woven,0.013566351171477793,8.652991424564107,0.39227867126464844,19.576536000386113,50.001953125,256_White_noise_FF_1_woven_0007.png,,v4
+woven_0007.jpg,256,White noise + FF,2,woven,0.022345203269429285,8.680819093385475,0.4028873145580292,18.697149999752583,50.001953125,256_White_noise_FF_2_woven_0007.png,,v4
+woven_0008.jpg,256,White noise + FF,0,woven,0.02265661644545211,14.230262233886545,0.5052818059921265,19.190000999515178,50.001953125,256_White_noise_FF_0_woven_0008.png,,v4
+woven_0008.jpg,256,White noise + FF,1,woven,0.02889631001336273,14.13636873960402,0.5255201458930969,19.8702810002942,50.001953125,256_White_noise_FF_1_woven_0008.png,,v4
+woven_0008.jpg,256,White noise + FF,2,woven,0.025707543949587998,14.240045222415752,0.5084934830665588,19.040520999624277,50.001953125,256_White_noise_FF_2_woven_0008.png,,v4
+woven_0009.jpg,256,White noise + FF,0,woven,0.11574026919878316,9.387830743701556,0.6518970131874084,20.143639999332663,50.001953125,256_White_noise_FF_0_woven_0009.png,,v4
+woven_0009.jpg,256,White noise + FF,1,woven,0.12240739622182857,9.389157113105522,0.6177862882614136,18.84903599966492,50.001953125,256_White_noise_FF_1_woven_0009.png,,v4
+woven_0009.jpg,256,White noise + FF,2,woven,0.11725187901441893,9.402239410184617,0.6484363079071045,18.845149999833666,50.001953125,256_White_noise_FF_2_woven_0009.png,,v4
+woven_0010.jpg,256,White noise + FF,0,woven,0.262237558472892,16.39410113200195,0.519332766532898,18.690377999519114,50.001953125,256_White_noise_FF_0_woven_0010.png,,v4
+woven_0010.jpg,256,White noise + FF,1,woven,0.25932928946518063,16.427511300054228,0.5149382948875427,18.473687000550854,50.001953125,256_White_noise_FF_1_woven_0010.png,,v4
+woven_0010.jpg,256,White noise + FF,2,woven,0.26467220520713264,16.459043889467758,0.5526942014694214,18.563449000794208,50.001953125,256_White_noise_FF_2_woven_0010.png,,v4
+woven_0011.jpg,256,White noise + FF,0,woven,0.16949139124513368,8.337499186822676,0.6504875421524048,19.752420999793685,50.001953125,256_White_noise_FF_0_woven_0011.png,,v4
+woven_0011.jpg,256,White noise + FF,1,woven,0.17340547976706452,8.323129848158136,0.639893651008606,20.631456999581133,50.001953125,256_White_noise_FF_1_woven_0011.png,,v4
+woven_0011.jpg,256,White noise + FF,2,woven,0.1733067042157312,8.33554809483817,0.6477370858192444,19.931390000238025,50.001953125,256_White_noise_FF_2_woven_0011.png,,v4
+woven_0012.jpg,256,White noise + FF,0,woven,0.12444484863953836,9.269142010693761,0.6458057165145874,19.927058000575926,50.001953125,256_White_noise_FF_0_woven_0012.png,,v4
+woven_0012.jpg,256,White noise + FF,1,woven,0.1229760824066443,9.236893634052958,0.6389822363853455,19.69075399938447,50.001953125,256_White_noise_FF_1_woven_0012.png,,v4
+woven_0012.jpg,256,White noise + FF,2,woven,0.12141523780391554,9.288311775949698,0.6686831116676331,19.77810199969099,50.001953125,256_White_noise_FF_2_woven_0012.png,,v4
+woven_0013.jpg,256,White noise + FF,0,woven,0.03604678525708983,12.757982180614764,0.5278269052505493,19.268931000624434,50.001953125,256_White_noise_FF_0_woven_0013.png,,v4
+woven_0013.jpg,256,White noise + FF,1,woven,0.03498194968495187,12.695980886140333,0.49875324964523315,19.774774000325124,50.001953125,256_White_noise_FF_1_woven_0013.png,,v4
+woven_0013.jpg,256,White noise + FF,2,woven,0.031233094217774197,12.665267511029256,0.5160971283912659,19.13751400024921,50.001953125,256_White_noise_FF_2_woven_0013.png,,v4
+woven_0014.jpg,256,White noise + FF,0,woven,0.2056164406532373,17.018176155916066,0.5066667199134827,19.16705900021043,50.001953125,256_White_noise_FF_0_woven_0014.png,,v4
+woven_0014.jpg,256,White noise + FF,1,woven,0.20771177002330962,16.94859017033756,0.5492966771125793,18.827607999810425,50.001953125,256_White_noise_FF_1_woven_0014.png,,v4
+woven_0014.jpg,256,White noise + FF,2,woven,0.20553907300551189,16.9650951055962,0.5069319009780884,19.050904999858176,50.001953125,256_White_noise_FF_2_woven_0014.png,,v4
+woven_0015.jpg,256,White noise + FF,0,woven,0.03263844906187797,14.20957477728626,0.5319793820381165,19.138721000672376,50.001953125,256_White_noise_FF_0_woven_0015.png,,v4
+woven_0015.jpg,256,White noise + FF,1,woven,0.023020469596383552,14.186376384467053,0.5080716609954834,18.947437999486283,50.001953125,256_White_noise_FF_1_woven_0015.png,,v4
+woven_0015.jpg,256,White noise + FF,2,woven,0.029961490237900127,14.260974605007428,0.5419999957084656,18.793955000546703,50.001953125,256_White_noise_FF_2_woven_0015.png,,v4
+woven_0016.jpg,256,White noise + FF,0,woven,0.15693051463228713,11.798220651051475,0.38749420642852783,18.764346000352816,50.001953125,256_White_noise_FF_0_woven_0016.png,,v4
+woven_0016.jpg,256,White noise + FF,1,woven,0.15788711342953296,11.715120367350986,0.4010259807109833,18.877652000810485,50.001953125,256_White_noise_FF_1_woven_0016.png,,v4
+woven_0016.jpg,256,White noise + FF,2,woven,0.15439942693437989,11.739628465463701,0.385038822889328,18.733775000328023,50.001953125,256_White_noise_FF_2_woven_0016.png,,v4
+braided_0002.jpg,256,White noise + FF,0,braided,0.1515677380327344,15.339000235503615,0.5048070549964905,19.077946999459527,50.001953125,256_White_noise_FF_0_braided_0002.png,,v4
+braided_0002.jpg,256,White noise + FF,1,braided,0.1503884840360808,15.240203241317404,0.5006177425384521,18.890327000008256,50.001953125,256_White_noise_FF_1_braided_0002.png,,v4
+braided_0002.jpg,256,White noise + FF,2,braided,0.13895393102859024,15.32198229337585,0.5170012712478638,19.019004000256245,50.001953125,256_White_noise_FF_2_braided_0002.png,,v4
+braided_0006.jpg,256,White noise + FF,0,braided,0.0354303382177662,13.204187954511855,0.4831956624984741,19.435428000178945,50.001953125,256_White_noise_FF_0_braided_0006.png,,v4
+braided_0006.jpg,256,White noise + FF,1,braided,0.03315559225225287,13.230933438701975,0.45119136571884155,19.251690999226412,50.001953125,256_White_noise_FF_1_braided_0006.png,,v4
+braided_0006.jpg,256,White noise + FF,2,braided,0.02719700450626311,13.120820434681843,0.4931833744049072,18.998763000126928,50.001953125,256_White_noise_FF_2_braided_0006.png,,v4
+braided_0007.jpg,256,White noise + FF,0,braided,0.044695586687323804,12.128226019520882,0.4772637188434601,20.363434000501,50.001953125,256_White_noise_FF_0_braided_0007.png,,v4
+braided_0007.jpg,256,White noise + FF,1,braided,0.05389895491984347,12.173495782994268,0.47749048471450806,19.420069999796397,50.001953125,256_White_noise_FF_1_braided_0007.png,,v4
+braided_0007.jpg,256,White noise + FF,2,braided,0.04629650901574679,12.35766558447952,0.5042823553085327,18.931958000393934,50.001953125,256_White_noise_FF_2_braided_0007.png,,v4
+braided_0008.jpg,256,White noise + FF,0,braided,0.017715001901335608,9.27515325423194,0.2822427451610565,19.02587000040512,50.001953125,256_White_noise_FF_0_braided_0008.png,,v4
+braided_0008.jpg,256,White noise + FF,1,braided,0.02409199516810429,9.327131579676585,0.30225756764411926,18.953507999867725,50.001953125,256_White_noise_FF_1_braided_0008.png,,v4
+braided_0008.jpg,256,White noise + FF,2,braided,0.013700881545562428,9.256604066258129,0.28579291701316833,18.951329999254085,50.001953125,256_White_noise_FF_2_braided_0008.png,,v4
+braided_0009.jpg,256,White noise + FF,0,braided,0.06953398479616328,8.102523654654023,0.4388698637485504,19.06479199988098,50.001953125,256_White_noise_FF_0_braided_0009.png,,v4
+braided_0009.jpg,256,White noise + FF,1,braided,0.07141007770913438,8.019812333427573,0.4624379873275757,19.00201699936588,50.001953125,256_White_noise_FF_1_braided_0009.png,,v4
+braided_0009.jpg,256,White noise + FF,2,braided,0.07611952810792975,8.030539576387204,0.45234590768814087,18.979577000209247,50.001953125,256_White_noise_FF_2_braided_0009.png,,v4
+braided_0013.jpg,256,White noise + FF,0,braided,0.05877948017737874,8.224699119765118,0.6053178310394287,19.09195999996882,50.001953125,256_White_noise_FF_0_braided_0013.png,,v4
+braided_0013.jpg,256,White noise + FF,1,braided,0.05600436218519817,8.255015565382944,0.6171367764472961,19.07733799998823,50.001953125,256_White_noise_FF_1_braided_0013.png,,v4
+braided_0013.jpg,256,White noise + FF,2,braided,0.054770950570759744,8.268058910616825,0.5726625919342041,19.0793579995443,50.001953125,256_White_noise_FF_2_braided_0013.png,,v4
+braided_0019.jpg,256,White noise + FF,0,braided,0.04322341908940421,12.255826109124666,0.40087735652923584,18.923736000033387,50.001953125,256_White_noise_FF_0_braided_0019.png,,v4
+braided_0019.jpg,256,White noise + FF,1,braided,0.03902006109308498,12.110243172310193,0.3837755024433136,18.966658999488573,50.001953125,256_White_noise_FF_1_braided_0019.png,,v4
+braided_0019.jpg,256,White noise + FF,2,braided,0.054252065605769006,12.236787177158083,0.3915199935436249,18.875240999477683,50.001953125,256_White_noise_FF_2_braided_0019.png,,v4
+braided_0027.jpg,256,White noise + FF,0,braided,0.029939418039207025,6.762865565762693,0.5619003772735596,18.93123599984392,50.001953125,256_White_noise_FF_0_braided_0027.png,,v4
+braided_0027.jpg,256,White noise + FF,1,braided,0.028800505436594577,6.757185380263008,0.5402841567993164,18.902464999882795,50.001953125,256_White_noise_FF_1_braided_0027.png,,v4
+braided_0027.jpg,256,White noise + FF,2,braided,0.03229603191685273,6.707842229798869,0.5577614307403564,18.828270999620145,50.001953125,256_White_noise_FF_2_braided_0027.png,,v4
+braided_0042.jpg,256,White noise + FF,0,braided,0.047045909111471156,9.777513062215823,0.4122970402240753,18.89809200019954,50.001953125,256_White_noise_FF_0_braided_0042.png,,v4
+braided_0042.jpg,256,White noise + FF,1,braided,0.034200202559606305,9.708472401723913,0.39114880561828613,19.418218999817327,50.001953125,256_White_noise_FF_1_braided_0042.png,,v4
+braided_0042.jpg,256,White noise + FF,2,braided,0.05680548177807606,9.636541187416102,0.42697492241859436,19.02972999960184,50.001953125,256_White_noise_FF_2_braided_0042.png,,v4
+braided_0050.jpg,256,White noise + FF,0,braided,0.039456583401627235,8.24433776022433,0.5593149662017822,18.89479100009339,50.001953125,256_White_noise_FF_0_braided_0050.png,,v4
+braided_0050.jpg,256,White noise + FF,1,braided,0.03304386552406086,8.074036100963223,0.5685147643089294,18.88230599979579,50.001953125,256_White_noise_FF_1_braided_0050.png,,v4
+braided_0050.jpg,256,White noise + FF,2,braided,0.04417168368566772,8.169225350890034,0.5599621534347534,18.6326499997449,50.001953125,256_White_noise_FF_2_braided_0050.png,,v4
+braided_0061.jpg,256,White noise + FF,0,braided,0.07178343998741502,10.839842900006602,0.5340543985366821,18.698591999964265,50.001953125,256_White_noise_FF_0_braided_0061.png,,v4
+braided_0061.jpg,256,White noise + FF,1,braided,0.04915145161808079,10.959386579954177,0.5094060897827148,18.641615999513306,50.001953125,256_White_noise_FF_1_braided_0061.png,,v4
+braided_0061.jpg,256,White noise + FF,2,braided,0.05875383702639615,10.68490499151945,0.5324845314025879,18.569151000519923,50.001953125,256_White_noise_FF_2_braided_0061.png,,v4
+braided_0064.jpg,256,White noise + FF,0,braided,0.028911588806510867,11.510126150473276,0.2945716381072998,18.635934000485577,50.001953125,256_White_noise_FF_0_braided_0064.png,,v4
+braided_0064.jpg,256,White noise + FF,1,braided,0.03436705887085447,11.558466869624606,0.28985971212387085,19.123862000014924,50.001953125,256_White_noise_FF_1_braided_0064.png,,v4
+braided_0064.jpg,256,White noise + FF,2,braided,0.02920329710778952,11.489922002767477,0.2764738202095032,18.680205000237038,50.001953125,256_White_noise_FF_2_braided_0064.png,,v4
+braided_0067.jpg,256,White noise + FF,0,braided,0.044016226151561075,9.800280876761189,0.43297240138053894,18.734051999672374,50.001953125,256_White_noise_FF_0_braided_0067.png,,v4
+braided_0067.jpg,256,White noise + FF,1,braided,0.04613857937886559,9.8122167327095,0.4451982378959656,18.46805199966184,50.001953125,256_White_noise_FF_1_braided_0067.png,,v4
+braided_0067.jpg,256,White noise + FF,2,braided,0.05255177455327419,9.818197679123374,0.4568586051464081,18.261334999806422,50.001953125,256_White_noise_FF_2_braided_0067.png,,v4
+braided_0069.jpg,256,White noise + FF,0,braided,0.11621298607442344,8.751589854116018,0.43287429213523865,18.3170889995381,50.001953125,256_White_noise_FF_0_braided_0069.png,,v4
+braided_0069.jpg,256,White noise + FF,1,braided,0.09515891020633982,8.74425155168439,0.42533770203590393,18.273261000103957,50.001953125,256_White_noise_FF_1_braided_0069.png,,v4
+braided_0069.jpg,256,White noise + FF,2,braided,0.11859350570048796,8.806882407442036,0.42998892068862915,18.26471999993373,50.001953125,256_White_noise_FF_2_braided_0069.png,,v4
+braided_0070.jpg,256,White noise + FF,0,braided,0.1267821591073547,6.475166895678976,0.4752339720726013,18.595180000374967,50.001953125,256_White_noise_FF_0_braided_0070.png,,v4
+braided_0070.jpg,256,White noise + FF,1,braided,0.13872241695679108,6.4538532179881924,0.4920213222503662,17.93822500076203,50.001953125,256_White_noise_FF_1_braided_0070.png,,v4
+braided_0070.jpg,256,White noise + FF,2,braided,0.129837982456859,6.433392698700708,0.5038747191429138,18.567379999694822,50.001953125,256_White_noise_FF_2_braided_0070.png,,v4
+stratified_0027.jpg,256,White noise + FF,0,stratified,0.05056479103099067,13.068523187799105,0.5358598232269287,17.960781000510906,50.001953125,256_White_noise_FF_0_stratified_0027.png,,v4
+stratified_0027.jpg,256,White noise + FF,1,stratified,0.053210547977280524,13.377819794219267,0.5213536024093628,17.906681000567914,50.001953125,256_White_noise_FF_1_stratified_0027.png,,v4
+stratified_0027.jpg,256,White noise + FF,2,stratified,0.06324112414069971,13.231747484103806,0.5102096796035767,17.870310999569483,50.001953125,256_White_noise_FF_2_stratified_0027.png,,v4
+stratified_0042.jpg,256,White noise + FF,0,stratified,0.033132223965361016,10.576823601079983,0.49269428849220276,18.24825499988947,50.001953125,256_White_noise_FF_0_stratified_0042.png,,v4
+stratified_0042.jpg,256,White noise + FF,1,stratified,0.0318044933492926,10.67607721330419,0.49302026629447937,17.966457999136765,50.001953125,256_White_noise_FF_1_stratified_0042.png,,v4
+stratified_0042.jpg,256,White noise + FF,2,stratified,0.037497824985679974,10.650727724577596,0.4819337725639343,18.22519400047895,50.001953125,256_White_noise_FF_2_stratified_0042.png,,v4
+stratified_0043.jpg,256,White noise + FF,0,stratified,0.08069832536395617,12.409919937657804,0.5479030013084412,17.897743000503397,50.001953125,256_White_noise_FF_0_stratified_0043.png,,v4
+stratified_0043.jpg,256,White noise + FF,1,stratified,0.09289130166201685,12.363663275389712,0.5659885406494141,18.005289000029734,50.001953125,256_White_noise_FF_1_stratified_0043.png,,v4
+stratified_0043.jpg,256,White noise + FF,2,stratified,0.09595461235323095,12.49306043964837,0.5499940514564514,17.92067699989275,50.001953125,256_White_noise_FF_2_stratified_0043.png,,v4
+stratified_0045.jpg,256,White noise + FF,0,stratified,0.10431158369693551,13.225112149163653,0.5150367021560669,18.322062000152073,50.001953125,256_White_noise_FF_0_stratified_0045.png,,v4
+stratified_0045.jpg,256,White noise + FF,1,stratified,0.10097288767238809,13.25542423845379,0.5467657446861267,18.40703499965457,50.001953125,256_White_noise_FF_1_stratified_0045.png,,v4
+stratified_0045.jpg,256,White noise + FF,2,stratified,0.10825938414711986,13.32577669026028,0.5338612198829651,18.2852260004438,50.001953125,256_White_noise_FF_2_stratified_0045.png,,v4
+stratified_0046.jpg,256,White noise + FF,0,stratified,0.01759498045901951,9.743722883307141,0.5138055086135864,18.31480999953783,50.001953125,256_White_noise_FF_0_stratified_0046.png,,v4
+stratified_0046.jpg,256,White noise + FF,1,stratified,0.017774216886062857,9.658837405081854,0.4436473250389099,18.105260999618622,50.001953125,256_White_noise_FF_1_stratified_0046.png,,v4
+stratified_0046.jpg,256,White noise + FF,2,stratified,0.013682378328039172,9.62874128177022,0.47552764415740967,18.24568099982571,50.001953125,256_White_noise_FF_2_stratified_0046.png,,v4
+stratified_0047.jpg,256,White noise + FF,0,stratified,0.08049530604464004,12.714322674323476,0.47301313281059265,18.785535000461095,50.001953125,256_White_noise_FF_0_stratified_0047.png,,v4
+stratified_0047.jpg,256,White noise + FF,1,stratified,0.0785016544411335,12.775441373600662,0.46585679054260254,17.937870000423572,50.001953125,256_White_noise_FF_1_stratified_0047.png,,v4
+stratified_0047.jpg,256,White noise + FF,2,stratified,0.07584786431492843,12.484977575737489,0.4794950485229492,17.873503000373603,50.001953125,256_White_noise_FF_2_stratified_0047.png,,v4
+stratified_0048.jpg,256,White noise + FF,0,stratified,0.06239905736046978,12.88182565061974,0.52419114112854,18.041878000076395,50.001953125,256_White_noise_FF_0_stratified_0048.png,,v4
+stratified_0048.jpg,256,White noise + FF,1,stratified,0.05195796114556924,12.907007733996785,0.49424970149993896,18.216327999653004,50.001953125,256_White_noise_FF_1_stratified_0048.png,,v4
+stratified_0048.jpg,256,White noise + FF,2,stratified,0.06456184249019761,13.020541002280861,0.5063402056694031,18.298139999387786,50.001953125,256_White_noise_FF_2_stratified_0048.png,,v4
+stratified_0049.jpg,256,White noise + FF,0,stratified,0.19422483563263546,15.390407580962144,0.40146732330322266,18.3923610002239,50.001953125,256_White_noise_FF_0_stratified_0049.png,,v4
+stratified_0049.jpg,256,White noise + FF,1,stratified,0.19762086524030723,15.477506875630437,0.3804847300052643,18.284134999703383,50.001953125,256_White_noise_FF_1_stratified_0049.png,,v4
+stratified_0049.jpg,256,White noise + FF,2,stratified,0.18148067441790341,15.338075201698874,0.3763545751571655,18.483885000023292,50.001953125,256_White_noise_FF_2_stratified_0049.png,,v4
+stratified_0050.jpg,256,White noise + FF,0,stratified,0.11204370477965109,17.07551577365453,0.43259018659591675,18.238577999909467,50.001953125,256_White_noise_FF_0_stratified_0050.png,,v4
+stratified_0050.jpg,256,White noise + FF,1,stratified,0.1329080471320972,17.291849553014135,0.39737194776535034,18.269363999934285,50.001953125,256_White_noise_FF_1_stratified_0050.png,,v4
+stratified_0050.jpg,256,White noise + FF,2,stratified,0.12616796709171565,17.304617384420844,0.3758343756198883,17.90209800037701,50.001953125,256_White_noise_FF_2_stratified_0050.png,,v4
+stratified_0051.jpg,256,White noise + FF,0,stratified,0.01914375163833113,9.965011853827235,0.48218458890914917,18.255723999573092,50.001953125,256_White_noise_FF_0_stratified_0051.png,,v4
+stratified_0051.jpg,256,White noise + FF,1,stratified,0.04235435446342251,9.92022663250072,0.4970725178718567,18.15845300006913,50.001953125,256_White_noise_FF_1_stratified_0051.png,,v4
+stratified_0051.jpg,256,White noise + FF,2,stratified,0.03040794214728105,9.98269148988695,0.5040094256401062,18.072510999445512,50.001953125,256_White_noise_FF_2_stratified_0051.png,,v4
+stratified_0053.jpg,256,White noise + FF,0,stratified,0.07945203498222148,14.907494645771802,0.6022326946258545,18.03012199980003,50.001953125,256_White_noise_FF_0_stratified_0053.png,,v4
+stratified_0053.jpg,256,White noise + FF,1,stratified,0.08572072216864568,15.16501240898928,0.5876830816268921,18.091635999553546,50.001953125,256_White_noise_FF_1_stratified_0053.png,,v4
+stratified_0053.jpg,256,White noise + FF,2,stratified,0.07463768599698614,14.921127871943051,0.5816726684570312,18.670680000468565,50.001953125,256_White_noise_FF_2_stratified_0053.png,,v4
+stratified_0054.jpg,256,White noise + FF,0,stratified,0.11684100796438224,15.688591914970797,0.3964139223098755,18.980317000568903,50.001953125,256_White_noise_FF_0_stratified_0054.png,,v4
+stratified_0054.jpg,256,White noise + FF,1,stratified,0.10733294290756824,15.434931937777536,0.3986891508102417,18.05750600033207,50.001953125,256_White_noise_FF_1_stratified_0054.png,,v4
+stratified_0054.jpg,256,White noise + FF,2,stratified,0.1048290217132164,15.3641864106576,0.4250947833061218,18.99600599972473,50.001953125,256_White_noise_FF_2_stratified_0054.png,,v4
+stratified_0055.jpg,256,White noise + FF,0,stratified,0.05193524923897104,12.13471362711296,0.4912683069705963,18.870448000598117,50.001953125,256_White_noise_FF_0_stratified_0055.png,,v4
+stratified_0055.jpg,256,White noise + FF,1,stratified,0.04858001384130661,12.268826831241032,0.47976189851760864,18.50782800011075,50.001953125,256_White_noise_FF_1_stratified_0055.png,,v4
+stratified_0055.jpg,256,White noise + FF,2,stratified,0.055311123120175956,12.016157800884269,0.4924650192260742,18.392263999885472,50.001953125,256_White_noise_FF_2_stratified_0055.png,,v4
+stratified_0056.jpg,256,White noise + FF,0,stratified,0.007213428880025318,9.002717424256662,0.5992341041564941,18.693990999963717,50.001953125,256_White_noise_FF_0_stratified_0056.png,,v4
+stratified_0056.jpg,256,White noise + FF,1,stratified,0.001666989046618066,8.922318989096622,0.5759549736976624,18.50594400002592,50.001953125,256_White_noise_FF_1_stratified_0056.png,,v4
+stratified_0056.jpg,256,White noise + FF,2,stratified,0.006830340435097212,8.92210607455517,0.6084332466125488,18.676558999686677,50.001953125,256_White_noise_FF_2_stratified_0056.png,,v4
+stratified_0057.jpg,256,White noise + FF,0,stratified,0.03432655690812507,11.964249303773418,0.5394287109375,18.42276200022752,50.001953125,256_White_noise_FF_0_stratified_0057.png,,v4
+stratified_0057.jpg,256,White noise + FF,1,stratified,0.024710008484509,11.819652193921947,0.5554271340370178,18.438794000758207,50.001953125,256_White_noise_FF_1_stratified_0057.png,,v4
+stratified_0057.jpg,256,White noise + FF,2,stratified,0.021548061823082835,11.981594852877747,0.5210316777229309,18.523871000070358,50.001953125,256_White_noise_FF_2_stratified_0057.png,,v4
+knitted_0023.jpg,256,White noise + FF,0,knitted,0.032046656321389866,9.897816274910248,0.3660387098789215,18.435314999805996,50.001953125,256_White_noise_FF_0_knitted_0023.png,,v4
+knitted_0023.jpg,256,White noise + FF,1,knitted,0.04104715593265641,9.92106756179287,0.3721919059753418,18.937830999675498,50.001953125,256_White_noise_FF_1_knitted_0023.png,,v4
+knitted_0023.jpg,256,White noise + FF,2,knitted,0.021583482408972572,9.823849664882133,0.3684200644493103,18.88794299975416,50.001953125,256_White_noise_FF_2_knitted_0023.png,,v4
+knitted_0072.jpg,256,White noise + FF,0,knitted,0.06586885391448245,12.260150283214582,0.36648234724998474,18.825375999767857,50.001953125,256_White_noise_FF_0_knitted_0072.png,,v4
+knitted_0072.jpg,256,White noise + FF,1,knitted,0.05825606508033226,12.326890992047941,0.3408886194229126,18.719491999945603,50.001953125,256_White_noise_FF_1_knitted_0072.png,,v4
+knitted_0072.jpg,256,White noise + FF,2,knitted,0.05412107936699556,12.203194279202819,0.33392778038978577,18.636681000316457,50.001953125,256_White_noise_FF_2_knitted_0072.png,,v4
+knitted_0073.jpg,256,White noise + FF,0,knitted,0.19216023741723928,15.592629692719612,0.6624890565872192,18.693850000090606,50.001953125,256_White_noise_FF_0_knitted_0073.png,,v4
+knitted_0073.jpg,256,White noise + FF,1,knitted,0.18293450265745503,15.630240001115517,0.6906213760375977,18.60563700029161,50.001953125,256_White_noise_FF_1_knitted_0073.png,,v4
+knitted_0073.jpg,256,White noise + FF,2,knitted,0.1827057103335732,15.451933703179101,0.7289837002754211,18.776838000121643,50.001953125,256_White_noise_FF_2_knitted_0073.png,,v4
+knitted_0075.jpg,256,White noise + FF,0,knitted,0.036958649592287576,11.948285466711894,0.3394694924354553,18.285835999449773,50.001953125,256_White_noise_FF_0_knitted_0075.png,,v4
+knitted_0075.jpg,256,White noise + FF,1,knitted,0.050711445493808655,12.004338888003002,0.34550049901008606,17.87931499984552,50.001953125,256_White_noise_FF_1_knitted_0075.png,,v4
+knitted_0075.jpg,256,White noise + FF,2,knitted,0.028998695593411918,11.96577909023496,0.36216437816619873,17.560344000230543,50.001953125,256_White_noise_FF_2_knitted_0075.png,,v4
+knitted_0076.jpg,256,White noise + FF,0,knitted,0.039736574235028375,12.51451208753396,0.3664436936378479,17.532146999656106,50.001953125,256_White_noise_FF_0_knitted_0076.png,,v4
+knitted_0076.jpg,256,White noise + FF,1,knitted,0.04903695145340799,12.587249727009677,0.36568406224250793,17.782473999432113,50.001953125,256_White_noise_FF_1_knitted_0076.png,,v4
+knitted_0076.jpg,256,White noise + FF,2,knitted,0.051618164419322626,12.615201254350046,0.3712505102157593,18.165577000218036,50.001953125,256_White_noise_FF_2_knitted_0076.png,,v4
+knitted_0079.jpg,256,White noise + FF,0,knitted,0.082225703943353,16.70759699710131,0.4054279029369354,18.029970000497997,50.001953125,256_White_noise_FF_0_knitted_0079.png,,v4
+knitted_0079.jpg,256,White noise + FF,1,knitted,0.07249413639292106,16.546083241229333,0.4037713408470154,17.889454000396654,50.001953125,256_White_noise_FF_1_knitted_0079.png,,v4
+knitted_0079.jpg,256,White noise + FF,2,knitted,0.04780217093057973,16.46567678560022,0.38802799582481384,17.890052999973705,50.001953125,256_White_noise_FF_2_knitted_0079.png,,v4
+knitted_0083.jpg,256,White noise + FF,0,knitted,0.05262600699243089,11.679907117909995,0.4081815481185913,17.62402500025928,50.001953125,256_White_noise_FF_0_knitted_0083.png,,v4
+knitted_0083.jpg,256,White noise + FF,1,knitted,0.0580853318023687,11.650885603627758,0.42571333050727844,17.911048000314622,50.001953125,256_White_noise_FF_1_knitted_0083.png,,v4
+knitted_0083.jpg,256,White noise + FF,2,knitted,0.048317441448003116,11.674958442479275,0.399665504693985,18.171755999901507,50.001953125,256_White_noise_FF_2_knitted_0083.png,,v4
+knitted_0085.jpg,256,White noise + FF,0,knitted,0.08572047993650389,15.916083505575136,0.35828956961631775,17.897220999657293,50.001953125,256_White_noise_FF_0_knitted_0085.png,,v4
+knitted_0085.jpg,256,White noise + FF,1,knitted,0.0890712919622433,15.862473596442657,0.3441689908504486,17.93261300008453,50.001953125,256_White_noise_FF_1_knitted_0085.png,,v4
+knitted_0085.jpg,256,White noise + FF,2,knitted,0.07830091894018679,15.778696553892757,0.35611778497695923,17.87418899948534,50.001953125,256_White_noise_FF_2_knitted_0085.png,,v4
+knitted_0087.jpg,256,White noise + FF,0,knitted,0.04086168391191004,11.330446004265909,0.4442686438560486,18.110664000232646,50.001953125,256_White_noise_FF_0_knitted_0087.png,,v4
+knitted_0087.jpg,256,White noise + FF,1,knitted,0.03380585694999061,11.264890859230617,0.444086492061615,17.672358999334392,50.001953125,256_White_noise_FF_1_knitted_0087.png,,v4
+knitted_0087.jpg,256,White noise + FF,2,knitted,0.0274264286341267,11.299003036239101,0.4245380163192749,17.646782999690913,50.001953125,256_White_noise_FF_2_knitted_0087.png,,v4
+knitted_0089.jpg,256,White noise + FF,0,knitted,0.07433753277987694,14.229879806203332,0.5384050607681274,17.93627799997921,50.001953125,256_White_noise_FF_0_knitted_0089.png,,v4
+knitted_0089.jpg,256,White noise + FF,1,knitted,0.07009734681902305,14.09683665834115,0.5181244015693665,17.962118000468763,50.001953125,256_White_noise_FF_1_knitted_0089.png,,v4
+knitted_0089.jpg,256,White noise + FF,2,knitted,0.06348063777091904,14.226368106734268,0.5414302349090576,17.83232700017834,50.001953125,256_White_noise_FF_2_knitted_0089.png,,v4
+knitted_0091.jpg,256,White noise + FF,0,knitted,0.05029910899725058,14.703766863503148,0.46914011240005493,17.44999899983668,50.001953125,256_White_noise_FF_0_knitted_0091.png,,v4
+knitted_0091.jpg,256,White noise + FF,1,knitted,0.05920125916524642,14.754923393492916,0.4277653098106384,17.782036999960837,50.001953125,256_White_noise_FF_1_knitted_0091.png,,v4
+knitted_0091.jpg,256,White noise + FF,2,knitted,0.06318541543032573,14.702347378918834,0.4449107348918915,17.9477580004459,50.001953125,256_White_noise_FF_2_knitted_0091.png,,v4
+knitted_0092.jpg,256,White noise + FF,0,knitted,0.07660534806440551,13.7009611024611,0.38502585887908936,17.897790999995777,50.001953125,256_White_noise_FF_0_knitted_0092.png,,v4
+knitted_0092.jpg,256,White noise + FF,1,knitted,0.0958488027030648,13.657338614636103,0.3803015947341919,17.1664649997183,50.001953125,256_White_noise_FF_1_knitted_0092.png,,v4
+knitted_0092.jpg,256,White noise + FF,2,knitted,0.09281122027421716,13.698693327416597,0.386243611574173,17.578834999767423,50.001953125,256_White_noise_FF_2_knitted_0092.png,,v4
+knitted_0093.jpg,256,White noise + FF,0,knitted,0.1333134511499487,6.278282122090735,0.7722416520118713,17.39451800040115,50.001953125,256_White_noise_FF_0_knitted_0093.png,,v4
+knitted_0093.jpg,256,White noise + FF,1,knitted,0.13163790735377393,6.248710947352725,0.7775336503982544,17.16583500001434,50.001953125,256_White_noise_FF_1_knitted_0093.png,,v4
+knitted_0093.jpg,256,White noise + FF,2,knitted,0.11882014653811061,6.257364056904046,0.7848113775253296,16.956177999418287,50.001953125,256_White_noise_FF_2_knitted_0093.png,,v4
+knitted_0096.jpg,256,White noise + FF,0,knitted,0.11420412813764325,12.1434546546835,0.35084545612335205,17.13441999982024,50.001953125,256_White_noise_FF_0_knitted_0096.png,,v4
+knitted_0096.jpg,256,White noise + FF,1,knitted,0.10343567866903963,12.210260390654161,0.3583433926105499,17.01444700029242,50.001953125,256_White_noise_FF_1_knitted_0096.png,,v4
+knitted_0096.jpg,256,White noise + FF,2,knitted,0.1100821046340864,12.341735241357025,0.34318336844444275,17.151773000477988,50.001953125,256_White_noise_FF_2_knitted_0096.png,,v4
+knitted_0097.jpg,256,White noise + FF,0,knitted,0.04367293918890588,11.533617500593785,0.3825891315937042,17.188341000291985,50.001953125,256_White_noise_FF_0_knitted_0097.png,,v4
+knitted_0097.jpg,256,White noise + FF,1,knitted,0.0589012017922177,11.472473117998144,0.38747721910476685,17.31846199982101,50.001953125,256_White_noise_FF_1_knitted_0097.png,,v4
+knitted_0097.jpg,256,White noise + FF,2,knitted,0.046064597222066295,11.626941290228919,0.3619038462638855,17.16810899961274,50.001953125,256_White_noise_FF_2_knitted_0097.png,,v4
+marbled_0035.jpg,256,White noise + FF,0,marbled,0.15485364573784868,18.649027995104216,0.3705412447452545,17.296248999628006,50.001953125,256_White_noise_FF_0_marbled_0035.png,,v4
+marbled_0035.jpg,256,White noise + FF,1,marbled,0.14738594623873058,18.53747296217303,0.41188669204711914,17.18569100012246,50.001953125,256_White_noise_FF_1_marbled_0035.png,,v4
+marbled_0035.jpg,256,White noise + FF,2,marbled,0.1486599149659239,18.764578924647253,0.37346431612968445,17.289357999288768,50.001953125,256_White_noise_FF_2_marbled_0035.png,,v4
+marbled_0072.jpg,256,White noise + FF,0,marbled,0.2341786648428333,10.39704224784831,0.45256173610687256,17.336526000690355,50.001953125,256_White_noise_FF_0_marbled_0072.png,,v4
+marbled_0072.jpg,256,White noise + FF,1,marbled,0.23349355863800017,10.337031707606686,0.4706111252307892,17.333134000182326,50.001953125,256_White_noise_FF_1_marbled_0072.png,,v4
+marbled_0072.jpg,256,White noise + FF,2,marbled,0.23693311025663713,10.352486578609245,0.48908936977386475,17.16163699984463,50.001953125,256_White_noise_FF_2_marbled_0072.png,,v4
+marbled_0073.jpg,256,White noise + FF,0,marbled,0.06627209220643454,15.31377431911479,0.5136452317237854,17.114492000473547,50.001953125,256_White_noise_FF_0_marbled_0073.png,,v4
+marbled_0073.jpg,256,White noise + FF,1,marbled,0.08107342703076438,15.462256681409205,0.540919303894043,17.231107999577944,50.001953125,256_White_noise_FF_1_marbled_0073.png,,v4
+marbled_0073.jpg,256,White noise + FF,2,marbled,0.07455333514770673,15.456174615596419,0.5167585015296936,17.22449100088852,50.001953125,256_White_noise_FF_2_marbled_0073.png,,v4
+marbled_0074.jpg,256,White noise + FF,0,marbled,0.37035636559073914,15.105004944591776,0.3991354703903198,17.512291999992158,50.001953125,256_White_noise_FF_0_marbled_0074.png,,v4
+marbled_0074.jpg,256,White noise + FF,1,marbled,0.3567719129167319,15.090208544753063,0.3590250611305237,18.24668900007964,50.001953125,256_White_noise_FF_1_marbled_0074.png,,v4
+marbled_0074.jpg,256,White noise + FF,2,marbled,0.36550210761442736,15.11344425068043,0.3651753067970276,17.243739999685204,50.001953125,256_White_noise_FF_2_marbled_0074.png,,v4
+marbled_0075.jpg,256,White noise + FF,0,marbled,0.18906021811717028,10.77944945493859,0.5521451234817505,17.212657000527543,50.001953125,256_White_noise_FF_0_marbled_0075.png,,v4
+marbled_0075.jpg,256,White noise + FF,1,marbled,0.18065850775504252,10.768220146035766,0.5687085390090942,17.245216000446817,50.001953125,256_White_noise_FF_1_marbled_0075.png,,v4
+marbled_0075.jpg,256,White noise + FF,2,marbled,0.18153239505416213,10.678019503675438,0.5666848421096802,17.37141800003883,50.001953125,256_White_noise_FF_2_marbled_0075.png,,v4
+marbled_0076.jpg,256,White noise + FF,0,marbled,0.23202302028288616,7.8356358675803435,0.49639445543289185,17.34968300024775,50.001953125,256_White_noise_FF_0_marbled_0076.png,,v4
+marbled_0076.jpg,256,White noise + FF,1,marbled,0.2220034674184769,7.818245410639872,0.5016558766365051,17.40997500019148,50.001953125,256_White_noise_FF_1_marbled_0076.png,,v4
+marbled_0076.jpg,256,White noise + FF,2,marbled,0.21788122069591373,7.805842044956377,0.5133522152900696,17.212728999766114,50.001953125,256_White_noise_FF_2_marbled_0076.png,,v4
+marbled_0078.jpg,256,White noise + FF,0,marbled,0.13418553492950344,16.13225484635597,0.43928390741348267,17.970160000004398,50.001953125,256_White_noise_FF_0_marbled_0078.png,,v4
+marbled_0078.jpg,256,White noise + FF,1,marbled,0.1405362654153704,16.20572221882209,0.47766947746276855,17.25669999996171,50.001953125,256_White_noise_FF_1_marbled_0078.png,,v4
+marbled_0078.jpg,256,White noise + FF,2,marbled,0.13432611073984968,16.084824812511467,0.45415276288986206,17.218511000464787,50.001953125,256_White_noise_FF_2_marbled_0078.png,,v4
+marbled_0079.jpg,256,White noise + FF,0,marbled,0.09503087715061728,14.816692669939043,0.5405066013336182,17.37262999995437,50.001953125,256_White_noise_FF_0_marbled_0079.png,,v4
+marbled_0079.jpg,256,White noise + FF,1,marbled,0.10200010892198712,14.883148884553837,0.5563140511512756,17.30329299971345,50.001953125,256_White_noise_FF_1_marbled_0079.png,,v4
+marbled_0079.jpg,256,White noise + FF,2,marbled,0.09325565992437937,14.884220934353912,0.5358031392097473,18.402828000034788,50.001953125,256_White_noise_FF_2_marbled_0079.png,,v4
+marbled_0080.jpg,256,White noise + FF,0,marbled,0.08806100125525197,13.615086023172992,0.4703412652015686,18.413411999972595,50.001953125,256_White_noise_FF_0_marbled_0080.png,,v4
+marbled_0080.jpg,256,White noise + FF,1,marbled,0.08928822546714116,13.572076356714915,0.4620510935783386,18.159571000069263,50.001953125,256_White_noise_FF_1_marbled_0080.png,,v4
+marbled_0080.jpg,256,White noise + FF,2,marbled,0.08503545112974135,13.5632089768702,0.47310906648635864,18.19296299981943,50.001953125,256_White_noise_FF_2_marbled_0080.png,,v4
+marbled_0081.jpg,256,White noise + FF,0,marbled,0.06622263999966402,14.791205391537005,0.45567530393600464,18.434036999678938,50.001953125,256_White_noise_FF_0_marbled_0081.png,,v4
+marbled_0081.jpg,256,White noise + FF,1,marbled,0.06659772944247778,14.760958687393323,0.47302666306495667,18.230359999506618,50.001953125,256_White_noise_FF_1_marbled_0081.png,,v4
+marbled_0081.jpg,256,White noise + FF,2,marbled,0.05817867326463905,14.710325724211351,0.4526020288467407,18.092717000399716,50.001953125,256_White_noise_FF_2_marbled_0081.png,,v4
+marbled_0082.jpg,256,White noise + FF,0,marbled,0.21724434152732183,11.504651350460332,0.5164596438407898,18.115548999958264,50.001953125,256_White_noise_FF_0_marbled_0082.png,,v4
+marbled_0082.jpg,256,White noise + FF,1,marbled,0.22213351070649637,11.489983052644012,0.5089623928070068,18.844458999410563,50.001953125,256_White_noise_FF_1_marbled_0082.png,,v4
+marbled_0082.jpg,256,White noise + FF,2,marbled,0.2062153072819956,11.496694830916606,0.5061986446380615,18.47972299947287,50.001953125,256_White_noise_FF_2_marbled_0082.png,,v4
+marbled_0085.jpg,256,White noise + FF,0,marbled,0.3778889634634382,18.659867268483474,0.5030725002288818,18.624866999743972,50.001953125,256_White_noise_FF_0_marbled_0085.png,,v4
+marbled_0085.jpg,256,White noise + FF,1,marbled,0.39063996205902274,18.63438695171535,0.5251536965370178,18.485381000573398,50.001953125,256_White_noise_FF_1_marbled_0085.png,,v4
+marbled_0085.jpg,256,White noise + FF,2,marbled,0.3887107781115617,18.754685592797543,0.5068005323410034,18.524748999880103,50.001953125,256_White_noise_FF_2_marbled_0085.png,,v4
+marbled_0086.jpg,256,White noise + FF,0,marbled,0.6857103826192003,12.989592977236054,0.4407104253768921,18.579383000542293,50.001953125,256_White_noise_FF_0_marbled_0086.png,,v4
+marbled_0086.jpg,256,White noise + FF,1,marbled,0.6827873355503082,12.958594034015299,0.44512230157852173,18.872107999413856,50.001953125,256_White_noise_FF_1_marbled_0086.png,,v4
+marbled_0086.jpg,256,White noise + FF,2,marbled,0.6791847030060738,12.959239999475399,0.43808406591415405,19.498396000017237,50.001953125,256_White_noise_FF_2_marbled_0086.png,,v4
+marbled_0087.jpg,256,White noise + FF,0,marbled,0.6877444081591517,14.508979168265384,0.3797866106033325,18.837870999959705,50.001953125,256_White_noise_FF_0_marbled_0087.png,,v4
+marbled_0087.jpg,256,White noise + FF,1,marbled,0.6859865944188833,14.50836820505572,0.3904096186161041,19.5018809999965,50.001953125,256_White_noise_FF_1_marbled_0087.png,,v4
+marbled_0087.jpg,256,White noise + FF,2,marbled,0.6849734093167856,14.544330587900415,0.42198818922042847,19.84204200016393,50.001953125,256_White_noise_FF_2_marbled_0087.png,,v4
+marbled_0088.jpg,256,White noise + FF,0,marbled,0.02616325654122478,10.737117929573696,0.5622168779373169,19.46277899969573,50.001953125,256_White_noise_FF_0_marbled_0088.png,,v4
+marbled_0088.jpg,256,White noise + FF,1,marbled,0.029045693388441454,10.803802279057255,0.5672057867050171,19.71246399989468,50.001953125,256_White_noise_FF_1_marbled_0088.png,,v4
+marbled_0088.jpg,256,White noise + FF,2,marbled,0.03265755385905941,10.809480114089457,0.5928152799606323,19.535636000000522,50.001953125,256_White_noise_FF_2_marbled_0088.png,,v4
+woven_0001.jpg,512,White noise + FF,0,woven,0.04771551642488074,10.048151383698476,0.4953213632106781,75.48526800019317,186.0,512_White_noise_FF_0_woven_0001.png,,v4
+woven_0001.jpg,512,White noise + FF,1,woven,0.02815634313798578,9.904852415558134,0.4907134771347046,75.25209100003849,186.0,512_White_noise_FF_1_woven_0001.png,,v4
+woven_0001.jpg,512,White noise + FF,2,woven,0.03654004498117568,9.973703041448479,0.4848208725452423,72.12402999994083,186.0,512_White_noise_FF_2_woven_0001.png,,v4
+woven_0002.jpg,512,White noise + FF,0,woven,0.28984996314336403,17.83742796720809,0.42210161685943604,73.32012799997756,186.0,512_White_noise_FF_0_woven_0002.png,,v4
+woven_0002.jpg,512,White noise + FF,1,woven,0.2923647849472466,18.033289977012817,0.4172704517841339,72.69181999981811,186.0,512_White_noise_FF_1_woven_0002.png,,v4
+woven_0002.jpg,512,White noise + FF,2,woven,0.3011259712564918,18.059518205468056,0.419638454914093,74.77840699993976,186.0,512_White_noise_FF_2_woven_0002.png,,v4
+woven_0003.jpg,512,White noise + FF,0,woven,0.03736341088011162,7.22685043089481,0.5608384013175964,71.96136099992145,186.0,512_White_noise_FF_0_woven_0003.png,,v4
+woven_0003.jpg,512,White noise + FF,1,woven,0.03218361844716373,7.267166682987703,0.5570182800292969,73.68623200000002,186.0,512_White_noise_FF_1_woven_0003.png,,v4
+woven_0003.jpg,512,White noise + FF,2,woven,0.035757438151166124,7.2595768612042395,0.5617685914039612,71.89705500059063,186.0,512_White_noise_FF_2_woven_0003.png,,v4
+woven_0004.jpg,512,White noise + FF,0,woven,0.027362653208857328,11.282886680284394,0.5057144165039062,72.64523600042594,186.0,512_White_noise_FF_0_woven_0004.png,,v4
+woven_0004.jpg,512,White noise + FF,1,woven,0.02047798649183145,11.344662977816222,0.5059019327163696,69.84118200034573,186.0,512_White_noise_FF_1_woven_0004.png,,v4
+woven_0004.jpg,512,White noise + FF,2,woven,0.01051604805424324,11.223095125632355,0.4995096027851105,69.16951400035032,186.0,512_White_noise_FF_2_woven_0004.png,,v4
+woven_0005.jpg,512,White noise + FF,0,woven,0.0690763307991052,12.574307778140223,0.4063163101673126,70.24578500022471,186.0,512_White_noise_FF_0_woven_0005.png,,v4
+woven_0005.jpg,512,White noise + FF,1,woven,0.0683275185910848,12.612809944018721,0.3992980122566223,75.54359200003091,186.0,512_White_noise_FF_1_woven_0005.png,,v4
+woven_0005.jpg,512,White noise + FF,2,woven,0.07168312270261641,12.616876086138607,0.39526423811912537,74.66988600026525,186.0,512_White_noise_FF_2_woven_0005.png,,v4
+woven_0007.jpg,512,White noise + FF,0,woven,0.028822792278590345,7.539797285675359,0.4985525608062744,75.19363200026419,186.0,512_White_noise_FF_0_woven_0007.png,,v4
+woven_0007.jpg,512,White noise + FF,1,woven,0.03155657158867409,7.568697082581027,0.49951818585395813,75.39290499971685,186.0,512_White_noise_FF_1_woven_0007.png,,v4
+woven_0007.jpg,512,White noise + FF,2,woven,0.03346118507359252,7.530259305758634,0.49346834421157837,76.10875299997133,186.0,512_White_noise_FF_2_woven_0007.png,,v4
+braided_0002.jpg,512,White noise + FF,0,braided,0.1997210176904589,16.282798667570255,0.5437357425689697,71.9861449997552,186.0,512_White_noise_FF_0_braided_0002.png,,v4
+braided_0002.jpg,512,White noise + FF,1,braided,0.18754169292259634,16.209204297045726,0.5543153285980225,70.53010100025858,186.0,512_White_noise_FF_1_braided_0002.png,,v4
+braided_0002.jpg,512,White noise + FF,2,braided,0.18928838384971358,16.174547899592355,0.5391997694969177,69.18935300018347,186.0,512_White_noise_FF_2_braided_0002.png,,v4
+braided_0006.jpg,512,White noise + FF,0,braided,0.05189701314167365,13.04559224081512,0.4453781545162201,75.74099599969486,186.0,512_White_noise_FF_0_braided_0006.png,,v4
+braided_0006.jpg,512,White noise + FF,1,braided,0.046487792284070226,12.978976812776503,0.4409930109977722,71.21288100006495,186.0,512_White_noise_FF_1_braided_0006.png,,v4
+braided_0006.jpg,512,White noise + FF,2,braided,0.037479370872794814,12.998773120869192,0.44437846541404724,70.81201100027101,186.0,512_White_noise_FF_2_braided_0006.png,,v4
+braided_0007.jpg,512,White noise + FF,0,braided,0.04347560372550142,12.15727358333643,0.47664427757263184,70.95900799959054,186.0,512_White_noise_FF_0_braided_0007.png,,v4
+braided_0007.jpg,512,White noise + FF,1,braided,0.046857952223846686,12.234559516396802,0.4687970280647278,71.4464640004735,186.0,512_White_noise_FF_1_braided_0007.png,,v4
+braided_0007.jpg,512,White noise + FF,2,braided,0.04764881709234341,12.061226232781179,0.48211225867271423,70.67182499940827,186.0,512_White_noise_FF_2_braided_0007.png,,v4
+braided_0008.jpg,512,White noise + FF,0,braided,0.03306985845173974,9.218804531366292,0.4588142931461334,71.19686800069758,186.0,512_White_noise_FF_0_braided_0008.png,,v4
+braided_0008.jpg,512,White noise + FF,1,braided,0.04657210334063096,9.257522509153663,0.4655113220214844,72.88414699996792,186.0,512_White_noise_FF_1_braided_0008.png,,v4
+braided_0008.jpg,512,White noise + FF,2,braided,0.04199064466969532,9.170108396838438,0.4616581201553345,69.87422200018045,186.0,512_White_noise_FF_2_braided_0008.png,,v4
+braided_0009.jpg,512,White noise + FF,0,braided,0.13864913139815074,8.451427732868769,0.6116513013839722,71.12629899984313,186.0,512_White_noise_FF_0_braided_0009.png,,v4
+braided_0009.jpg,512,White noise + FF,1,braided,0.13646914836559987,8.439964261035586,0.6151030659675598,69.85977899967111,186.0,512_White_noise_FF_1_braided_0009.png,,v4
+braided_0009.jpg,512,White noise + FF,2,braided,0.1349583752688465,8.44743428922728,0.6166293025016785,70.94204600070952,186.0,512_White_noise_FF_2_braided_0009.png,,v4
+braided_0013.jpg,512,White noise + FF,0,braided,0.057920061748026254,9.82375889537297,0.5735176205635071,70.00822299960419,186.0,512_White_noise_FF_0_braided_0013.png,,v4
+braided_0013.jpg,512,White noise + FF,1,braided,0.05818849673640054,9.823414284968813,0.5910537838935852,69.50652500017895,186.0,512_White_noise_FF_1_braided_0013.png,,v4
+braided_0013.jpg,512,White noise + FF,2,braided,0.058778131297731746,9.81629511528234,0.5764954686164856,71.50530299986713,186.0,512_White_noise_FF_2_braided_0013.png,,v4
+stratified_0027.jpg,512,White noise + FF,0,stratified,0.0609175286406699,12.787007616915194,0.5376254320144653,75.16846599992277,186.0,512_White_noise_FF_0_stratified_0027.png,,v4
+stratified_0027.jpg,512,White noise + FF,1,stratified,0.061631857487071964,12.797907596174927,0.5225639343261719,74.42387100036285,186.0,512_White_noise_FF_1_stratified_0027.png,,v4
+stratified_0027.jpg,512,White noise + FF,2,stratified,0.06506064132274404,12.754747242400189,0.5103640556335449,72.28646400017169,186.0,512_White_noise_FF_2_stratified_0027.png,,v4
+stratified_0042.jpg,512,White noise + FF,0,stratified,0.054074644964681444,10.201483603416401,0.5171291828155518,70.16137899972819,186.0,512_White_noise_FF_0_stratified_0042.png,,v4
+stratified_0042.jpg,512,White noise + FF,1,stratified,0.05295044206983238,10.195639426123082,0.536331832408905,71.81728900013695,186.0,512_White_noise_FF_1_stratified_0042.png,,v4
+stratified_0042.jpg,512,White noise + FF,2,stratified,0.06105159490523851,10.241725890742341,0.5230211019515991,73.00090599983378,186.0,512_White_noise_FF_2_stratified_0042.png,,v4
+stratified_0043.jpg,512,White noise + FF,0,stratified,0.1533262722546009,12.97152044059713,0.5685542821884155,71.57759000074293,186.0,512_White_noise_FF_0_stratified_0043.png,,v4
+stratified_0043.jpg,512,White noise + FF,1,stratified,0.14758631108173811,12.981821092411947,0.5681934356689453,72.73453200014046,186.0,512_White_noise_FF_1_stratified_0043.png,,v4
+stratified_0043.jpg,512,White noise + FF,2,stratified,0.14891723458167344,12.870036937326146,0.5667413473129272,73.88280699979077,186.0,512_White_noise_FF_2_stratified_0043.png,,v4
+stratified_0045.jpg,512,White noise + FF,0,stratified,0.1265464066186178,12.369035204966732,0.5532150864601135,74.72412299921416,186.0,512_White_noise_FF_0_stratified_0045.png,,v4
+stratified_0045.jpg,512,White noise + FF,1,stratified,0.12416775059988902,12.32280157621426,0.5464320778846741,71.99426099941775,186.0,512_White_noise_FF_1_stratified_0045.png,,v4
+stratified_0045.jpg,512,White noise + FF,2,stratified,0.12256569154842686,12.452603731329317,0.5507555603981018,73.3520479998333,186.0,512_White_noise_FF_2_stratified_0045.png,,v4
+stratified_0046.jpg,512,White noise + FF,0,stratified,0.0314573428697371,9.610636709385052,0.5065703392028809,71.97854399964854,186.0,512_White_noise_FF_0_stratified_0046.png,,v4
+stratified_0046.jpg,512,White noise + FF,1,stratified,0.028723276501061847,9.62430649515905,0.5092982649803162,71.79888700011361,186.0,512_White_noise_FF_1_stratified_0046.png,,v4
+stratified_0046.jpg,512,White noise + FF,2,stratified,0.03761558743903225,9.627811366098353,0.5154619812965393,69.50914400022157,186.0,512_White_noise_FF_2_stratified_0046.png,,v4
+stratified_0047.jpg,512,White noise + FF,0,stratified,0.11028641430295683,12.65886543967645,0.515697181224823,72.18921099956788,186.0,512_White_noise_FF_0_stratified_0047.png,,v4
+stratified_0047.jpg,512,White noise + FF,1,stratified,0.11644790347835979,12.655761254362204,0.5013107061386108,71.39977299993916,186.0,512_White_noise_FF_1_stratified_0047.png,,v4
+stratified_0047.jpg,512,White noise + FF,2,stratified,0.11494190155968147,12.64438807111135,0.5125770568847656,70.13159500002075,186.0,512_White_noise_FF_2_stratified_0047.png,,v4
+knitted_0023.jpg,512,White noise + FF,0,knitted,0.04436002110081938,9.562944663199438,0.4234907627105713,76.1662000004435,186.0,512_White_noise_FF_0_knitted_0023.png,,v4
+knitted_0023.jpg,512,White noise + FF,1,knitted,0.05495384915047259,9.64679311455068,0.4266994595527649,74.0883059997941,186.0,512_White_noise_FF_1_knitted_0023.png,,v4
+knitted_0023.jpg,512,White noise + FF,2,knitted,0.06286508934747162,9.595067595160682,0.432267427444458,75.00887700007297,186.0,512_White_noise_FF_2_knitted_0023.png,,v4
+knitted_0072.jpg,512,White noise + FF,0,knitted,0.08736671611834741,12.400993565939942,0.4316323399543762,73.38104100017517,186.0,512_White_noise_FF_0_knitted_0072.png,,v4
+knitted_0072.jpg,512,White noise + FF,1,knitted,0.08477877231782632,12.307459144099138,0.43595919013023376,72.75281300007919,186.0,512_White_noise_FF_1_knitted_0072.png,,v4
+knitted_0072.jpg,512,White noise + FF,2,knitted,0.08188598416015523,12.32855057486253,0.4304465353488922,71.04450600036216,186.0,512_White_noise_FF_2_knitted_0072.png,,v4
+knitted_0073.jpg,512,White noise + FF,0,knitted,0.18983143715831827,16.02228017626487,0.6693286895751953,72.26186299976689,186.0,512_White_noise_FF_0_knitted_0073.png,,v4
+knitted_0073.jpg,512,White noise + FF,1,knitted,0.18844931850430652,15.805971937544518,0.6688836812973022,70.60442000056355,186.0,512_White_noise_FF_1_knitted_0073.png,,v4
+knitted_0073.jpg,512,White noise + FF,2,knitted,0.1847965001020858,15.954145884220505,0.6752824783325195,76.70777199928125,186.0,512_White_noise_FF_2_knitted_0073.png,,v4
+knitted_0075.jpg,512,White noise + FF,0,knitted,0.07877123220024493,12.003998962953693,0.4119240939617157,73.00190000023576,186.0,512_White_noise_FF_0_knitted_0075.png,,v4
+knitted_0075.jpg,512,White noise + FF,1,knitted,0.0842293805521124,12.096020723755153,0.414579838514328,70.16475799991895,186.0,512_White_noise_FF_1_knitted_0075.png,,v4
+knitted_0075.jpg,512,White noise + FF,2,knitted,0.08841846573721249,12.139650965680602,0.4217550754547119,72.97179799934383,186.0,512_White_noise_FF_2_knitted_0075.png,,v4
+knitted_0076.jpg,512,White noise + FF,0,knitted,0.07090491139795277,11.882602380573939,0.48295512795448303,74.75998299923958,186.0,512_White_noise_FF_0_knitted_0076.png,,v4
+knitted_0076.jpg,512,White noise + FF,1,knitted,0.0743768392208854,11.87135838882735,0.4767701029777527,73.77538199943956,186.0,512_White_noise_FF_1_knitted_0076.png,,v4
+knitted_0076.jpg,512,White noise + FF,2,knitted,0.07545453349615724,11.869364259878022,0.48628541827201843,72.67196399970999,186.0,512_White_noise_FF_2_knitted_0076.png,,v4
+knitted_0079.jpg,512,White noise + FF,0,knitted,0.0883052242826205,16.63551054665091,0.3937419354915619,73.70751199960068,186.0,512_White_noise_FF_0_knitted_0079.png,,v4
+knitted_0079.jpg,512,White noise + FF,1,knitted,0.0828658701052463,16.55563642548526,0.39944177865982056,74.52984799965634,186.0,512_White_noise_FF_1_knitted_0079.png,,v4
+knitted_0079.jpg,512,White noise + FF,2,knitted,0.08859782416607617,16.57866187030447,0.3898325562477112,72.95854899984988,186.0,512_White_noise_FF_2_knitted_0079.png,,v4
+marbled_0035.jpg,512,White noise + FF,0,marbled,0.22793486374076458,18.95407964088354,0.5206568241119385,73.17241200053104,186.0,512_White_noise_FF_0_marbled_0035.png,,v4
+marbled_0035.jpg,512,White noise + FF,1,marbled,0.22714886858916952,18.811006099851937,0.5167018175125122,74.63045600070473,186.0,512_White_noise_FF_1_marbled_0035.png,,v4
+marbled_0035.jpg,512,White noise + FF,2,marbled,0.23033298709153344,19.090716993562104,0.5147262811660767,74.10439100021904,186.0,512_White_noise_FF_2_marbled_0035.png,,v4
+marbled_0072.jpg,512,White noise + FF,0,marbled,0.2748068827957162,9.615996497550285,0.5194069147109985,70.49576400004298,186.0,512_White_noise_FF_0_marbled_0072.png,,v4
+marbled_0072.jpg,512,White noise + FF,1,marbled,0.2711800589174767,9.63255718815574,0.5179708003997803,71.87817400063068,186.0,512_White_noise_FF_1_marbled_0072.png,,v4
+marbled_0072.jpg,512,White noise + FF,2,marbled,0.2698057702870059,9.62845179579967,0.5253009796142578,74.10941099988122,186.0,512_White_noise_FF_2_marbled_0072.png,,v4
+marbled_0073.jpg,512,White noise + FF,0,marbled,0.06385461912543952,14.752089481035561,0.5767135620117188,73.3676319996448,186.0,512_White_noise_FF_0_marbled_0073.png,,v4
+marbled_0073.jpg,512,White noise + FF,1,marbled,0.06823760384503498,14.673280082686095,0.58620685338974,75.07334099955187,186.0,512_White_noise_FF_1_marbled_0073.png,,v4
+marbled_0073.jpg,512,White noise + FF,2,marbled,0.07179945938887072,14.736043572231925,0.5790009498596191,72.89688599939836,186.0,512_White_noise_FF_2_marbled_0073.png,,v4
+marbled_0074.jpg,512,White noise + FF,0,marbled,0.3475064344893082,14.580420133296808,0.4194430708885193,73.75877499998751,186.0,512_White_noise_FF_0_marbled_0074.png,,v4
+marbled_0074.jpg,512,White noise + FF,1,marbled,0.33948325583011113,14.544423685748995,0.4391903579235077,74.31961099973705,186.0,512_White_noise_FF_1_marbled_0074.png,,v4
+marbled_0074.jpg,512,White noise + FF,2,marbled,0.341997421760071,14.536546595721731,0.4374924600124359,72.79904100050771,186.0,512_White_noise_FF_2_marbled_0074.png,,v4
+marbled_0075.jpg,512,White noise + FF,0,marbled,0.2154001772155474,9.245471838529996,0.598198413848877,71.72944300054951,186.0,512_White_noise_FF_0_marbled_0075.png,,v4
+marbled_0075.jpg,512,White noise + FF,1,marbled,0.21787527366742404,9.258707074889582,0.5907258987426758,70.89077099954011,186.0,512_White_noise_FF_1_marbled_0075.png,,v4
+marbled_0075.jpg,512,White noise + FF,2,marbled,0.21516175883085398,9.229469561796451,0.6028994917869568,68.68659900010243,186.0,512_White_noise_FF_2_marbled_0075.png,,v4
+marbled_0076.jpg,512,White noise + FF,0,marbled,0.28759711333840665,7.117596960073451,0.5692290663719177,73.25565900009678,186.0,512_White_noise_FF_0_marbled_0076.png,,v4
+marbled_0076.jpg,512,White noise + FF,1,marbled,0.28225562049431,7.1199114494829,0.5412864089012146,71.23053099985555,186.0,512_White_noise_FF_1_marbled_0076.png,,v4
+marbled_0076.jpg,512,White noise + FF,2,marbled,0.2868036179464167,7.12189217055228,0.5505159497261047,74.17661799991038,186.0,512_White_noise_FF_2_marbled_0076.png,,v4
+woven_0001.jpg,256,SD v1.5 + IP-Adapter,0,woven,-0.004572811998201083,7.316675491968368,0.6410479545593262,4327.7146760001415,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0001.png,,v4
+woven_0001.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.022690739628357534,9.563004646919763,0.6066680550575256,4325.067673000376,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0001.png,,v4
+woven_0001.jpg,256,SD v1.5 + IP-Adapter,2,woven,-0.02433900343554773,6.921545808060506,0.5655391216278076,4335.4817620001995,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0001.png,,v4
+woven_0002.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.03482234137427995,10.731833135069495,0.5030747652053833,4357.403087000421,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0002.png,,v4
+woven_0002.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.09400517012975587,17.621761316432718,1.0052000284194946,4396.246281999993,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0002.png,,v4
+woven_0002.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.027985628779523063,13.630481006968706,0.7782568335533142,4355.131219999748,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0002.png,,v4
+woven_0003.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.027797477828811902,7.338117210931074,0.5780328512191772,4380.542152999624,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0003.png,,v4
+woven_0003.jpg,256,SD v1.5 + IP-Adapter,1,woven,-0.007953579448194588,8.589921976485495,0.6478196978569031,4380.042467999374,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0003.png,,v4
+woven_0003.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.004603251294350998,9.007728823746147,0.5326002240180969,4352.998305000256,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0003.png,,v4
+woven_0004.jpg,256,SD v1.5 + IP-Adapter,0,woven,-0.00764149139707804,8.75000000524962,0.3020411431789398,4379.614985999979,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0004.png,,v4
+woven_0004.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.012402757839696773,7.528621715905216,0.9932725429534912,4382.476570999643,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0004.png,,v4
+woven_0004.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.036871980461192395,9.401475893866904,0.5122312903404236,4366.890428999795,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0004.png,,v4
+woven_0005.jpg,256,SD v1.5 + IP-Adapter,0,woven,-0.005455160342231852,10.85425924005471,0.525457501411438,4368.956581999555,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0005.png,,v4
+woven_0005.jpg,256,SD v1.5 + IP-Adapter,1,woven,-0.0022114547842426256,8.888575676156464,0.5198960304260254,4355.248959000164,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0005.png,,v4
+woven_0005.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.013624012768930471,10.26050248692615,0.3448420464992523,4348.138824999296,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0005.png,,v4
+woven_0007.jpg,256,SD v1.5 + IP-Adapter,0,woven,-0.00850014932386047,8.332471567075723,0.6376609802246094,4342.275710999274,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0007.png,,v4
+woven_0007.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.007159916013137199,10.564055174855786,0.4939004182815552,4367.292394999822,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0007.png,,v4
+woven_0007.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.006410936078187632,9.328899074968986,0.5301061272621155,4353.287977999571,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0007.png,,v4
+woven_0008.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.024202120017655177,13.819789170202304,0.4518555700778961,4338.35907699995,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0008.png,,v4
+woven_0008.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.017666695989753733,13.709375879370292,0.5417859554290771,4361.659357999997,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0008.png,,v4
+woven_0008.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.0263301656755651,12.262899779474946,0.8581925630569458,4338.237841000591,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0008.png,,v4
+woven_0009.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.02244046030289745,11.524578365566446,0.632427453994751,4343.878578999465,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0009.png,,v4
+woven_0009.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.03585290905272889,11.104616017750143,0.3076251745223999,4341.467172000193,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0009.png,,v4
+woven_0009.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.04775317842930162,11.818505274449134,0.4767083525657654,4353.8860520002345,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0009.png,,v4
+woven_0010.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.06724917978954242,12.973877045223865,0.4203135669231415,4344.498590000512,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0010.png,,v4
+woven_0010.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.04987124515799324,11.671347444247026,0.6005586981773376,4339.042366000285,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0010.png,,v4
+woven_0010.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.02510106744478897,10.704903270308941,0.8256242275238037,4370.27039700024,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0010.png,,v4
+woven_0011.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.016655457971531513,10.039139457855379,0.7915754914283752,4328.589407000436,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0011.png,,v4
+woven_0011.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.09965438822186526,10.747956960169676,0.38272884488105774,4334.109675000036,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0011.png,,v4
+woven_0011.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.04940791051089154,9.973507950815698,0.4350506365299225,4345.235253999817,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0011.png,,v4
+woven_0012.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.07250806691381022,11.930724291593112,0.3631913661956787,4331.709785999919,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0012.png,,v4
+woven_0012.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.0691380185210716,10.918599769812483,0.386190265417099,4331.824050999785,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0012.png,,v4
+woven_0012.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.07990256461525609,10.823098571272627,0.5955978035926819,4343.1184920000305,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0012.png,,v4
+woven_0013.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.02164013229093706,12.276849520494732,0.5086346864700317,4333.658494999327,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0013.png,,v4
+woven_0013.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.040187120241084215,15.819431143976585,0.3533433675765991,4337.174924999999,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0013.png,,v4
+woven_0013.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.03212719894513156,12.397574520176281,0.5708312392234802,4337.860022000314,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0013.png,,v4
+woven_0014.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.0514528409267425,14.800880102312234,0.36267274618148804,4335.963215999982,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0014.png,,v4
+woven_0014.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.04452530751324557,13.084109499572918,0.489230751991272,4322.794022999915,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0014.png,,v4
+woven_0014.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.04333692152503668,10.389568510730333,0.4529314637184143,4345.030786999814,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0014.png,,v4
+woven_0015.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.02503312290072339,13.831101874850697,0.5820916891098022,4345.465618999697,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0015.png,,v4
+woven_0015.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.029692288439910036,14.297206187772375,0.3601921498775482,4333.098181000423,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0015.png,,v4
+woven_0015.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.03523569581798835,14.856175562596778,0.5677149891853333,4341.9408869995095,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0015.png,,v4
+woven_0016.jpg,256,SD v1.5 + IP-Adapter,0,woven,0.008786288332459029,9.613130351123655,0.799108624458313,4358.057173999441,611.1865234375,256_SD_v1_5_IP_Adapter_0_woven_0016.png,,v4
+woven_0016.jpg,256,SD v1.5 + IP-Adapter,1,woven,0.013915687795803868,13.335358626165641,0.6487785577774048,4334.250566000264,611.1865234375,256_SD_v1_5_IP_Adapter_1_woven_0016.png,,v4
+woven_0016.jpg,256,SD v1.5 + IP-Adapter,2,woven,0.0419272534402856,14.011096579950292,0.7087144255638123,4334.2582269997365,611.1865234375,256_SD_v1_5_IP_Adapter_2_woven_0016.png,,v4
+braided_0002.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.048108246990990734,11.031516878256626,0.697297215461731,4343.41396399941,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0002.png,,v4
+braided_0002.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.03692000417554732,12.000003717698828,0.5667135119438171,4350.895452999794,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0002.png,,v4
+braided_0002.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.014154469913322351,10.295490526808859,0.6630491018295288,4340.658979999716,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0002.png,,v4
+braided_0006.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.006642703007064345,10.367838686163129,0.6637712717056274,4329.600588000176,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0006.png,,v4
+braided_0006.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.015082814954540736,11.75867927828465,0.45056524872779846,4350.190116999329,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0006.png,,v4
+braided_0006.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.030791109732058865,12.552056700770022,0.6727519035339355,4338.598168999852,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0006.png,,v4
+braided_0007.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.024880068509341224,11.0546297753535,0.707777202129364,4360.028318000332,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0007.png,,v4
+braided_0007.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.021718774441580265,11.206408640138616,0.5859082937240601,4357.315750999987,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0007.png,,v4
+braided_0007.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.0304510975042645,10.781559935623521,0.5042672753334045,4347.366674999648,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0007.png,,v4
+braided_0008.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.023785298548776538,9.640264919293598,0.5355527997016907,4359.805759000665,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0008.png,,v4
+braided_0008.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.004958679164553759,10.169152833233978,0.43618541955947876,4372.306971000398,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0008.png,,v4
+braided_0008.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.008562607395940985,8.359094897189367,0.50954270362854,4357.8779340004985,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0008.png,,v4
+braided_0009.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.027102465752423536,8.527138396622865,0.5061812996864319,4348.74093200051,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0009.png,,v4
+braided_0009.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.0275110379507701,10.188101708536017,0.47492966055870056,4355.772274999254,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0009.png,,v4
+braided_0009.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.018026292140869524,10.266782326810091,0.5440627336502075,4340.021427000465,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0009.png,,v4
+braided_0013.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.02825670661145066,10.455208018795517,0.6965225338935852,4348.36642800019,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0013.png,,v4
+braided_0013.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.03468601032836578,10.4528518458953,0.8411933183670044,4372.527849000107,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0013.png,,v4
+braided_0013.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.020572237262633866,10.977772951409746,0.8455798625946045,4371.772399999827,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0013.png,,v4
+braided_0019.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.0016687476922866845,8.601106225671627,0.45970091223716736,4349.125779000133,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0019.png,,v4
+braided_0019.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.02776571897583217,10.612769421546982,0.44323980808258057,4351.8751230003545,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0019.png,,v4
+braided_0019.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.005895844048601926,9.70412382324225,0.5634431838989258,4366.804881000462,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0019.png,,v4
+braided_0027.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.01803184126360503,9.092234885967244,0.7509052157402039,4353.176498000721,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0027.png,,v4
+braided_0027.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.029817892100816555,12.084077368763896,0.7955108880996704,4363.615778000167,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0027.png,,v4
+braided_0027.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.01749480008660243,8.451499529142948,0.5764521360397339,4388.619945000755,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0027.png,,v4
+braided_0042.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.017583515781723975,9.180024627366748,0.7860679030418396,4358.174475999476,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0042.png,,v4
+braided_0042.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.013013628906839854,9.877238927030948,0.7492936849594116,4356.845695000629,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0042.png,,v4
+braided_0042.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.02719891714211382,9.512157607932739,0.4917612075805664,4393.680370999391,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0042.png,,v4
+braided_0050.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.019661869110113032,7.723358290392594,0.6007587313652039,4359.917906999726,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0050.png,,v4
+braided_0050.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.00317790552454906,7.116886385841586,0.5434427857398987,4368.383465000079,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0050.png,,v4
+braided_0050.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.024327604461615505,7.680053351028297,0.5530163049697876,4373.213575000591,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0050.png,,v4
+braided_0061.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.011858084864056252,8.682243107764169,0.6676063537597656,4386.437375000241,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0061.png,,v4
+braided_0061.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.006443438693134371,7.13841035436371,0.709365963935852,4352.8122470006565,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0061.png,,v4
+braided_0061.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.02825637394627584,10.997940979296093,0.7872856259346008,4361.333490000106,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0061.png,,v4
+braided_0064.jpg,256,SD v1.5 + IP-Adapter,0,braided,-0.006037389766868374,7.80002182395526,0.2870121896266937,4378.510050999466,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0064.png,,v4
+braided_0064.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.015988233085794216,9.320773344035404,0.3276013731956482,4350.771607000752,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0064.png,,v4
+braided_0064.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.0167226117419862,9.00440208959929,0.39241674542427063,4360.539479999716,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0064.png,,v4
+braided_0067.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.012194193784625433,8.436522112621672,0.5649448037147522,4398.469001000194,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0067.png,,v4
+braided_0067.jpg,256,SD v1.5 + IP-Adapter,1,braided,-0.0007365950749678231,8.926386494920301,0.6598426699638367,4347.669631999452,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0067.png,,v4
+braided_0067.jpg,256,SD v1.5 + IP-Adapter,2,braided,-0.0014449580051940556,9.054472837483761,0.47638025879859924,4373.722751000059,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0067.png,,v4
+braided_0069.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.059395744400580236,12.508778436717424,0.6407522559165955,4375.574126000174,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0069.png,,v4
+braided_0069.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.0323777568277548,13.410711053064194,0.6268247961997986,4356.6817800001445,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0069.png,,v4
+braided_0069.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.005122229409218606,9.311749646522001,0.7253209352493286,4352.706091000073,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0069.png,,v4
+braided_0070.jpg,256,SD v1.5 + IP-Adapter,0,braided,0.020550571359930176,8.359285384381344,0.5763792991638184,4376.510883000265,611.1865234375,256_SD_v1_5_IP_Adapter_0_braided_0070.png,,v4
+braided_0070.jpg,256,SD v1.5 + IP-Adapter,1,braided,0.059101013877545336,7.237782371262402,0.5271575450897217,4376.289660999646,611.1865234375,256_SD_v1_5_IP_Adapter_1_braided_0070.png,,v4
+braided_0070.jpg,256,SD v1.5 + IP-Adapter,2,braided,0.016207994146005454,7.497899009593844,0.8505771160125732,4362.46051299986,611.1865234375,256_SD_v1_5_IP_Adapter_2_braided_0070.png,,v4
+stratified_0027.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.016790368000532387,9.088572412661653,0.6077542304992676,4353.163298999789,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0027.png,,v4
+stratified_0027.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.02797876231322658,11.54010402033852,0.4655972421169281,4381.697423999867,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0027.png,,v4
+stratified_0027.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.018202767771913268,10.538211692682802,0.6035630702972412,4354.603666000003,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0027.png,,v4
+stratified_0042.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.023062886910109312,8.899534169826527,0.46298617124557495,4363.391451999632,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0042.png,,v4
+stratified_0042.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.007644531474510597,7.827942797582415,0.5325731039047241,4361.734993999562,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0042.png,,v4
+stratified_0042.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.02010458619475046,8.585182761847939,0.5996353030204773,4362.278917999902,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0042.png,,v4
+stratified_0043.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.03787706774236833,9.048976909798224,0.5609955191612244,4368.710447999547,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0043.png,,v4
+stratified_0043.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.04410612361043191,11.004551220568153,0.7714809775352478,4379.212615000142,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0043.png,,v4
+stratified_0043.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.03973680345886073,10.21263830992451,0.5781443119049072,4360.737836000226,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0043.png,,v4
+stratified_0045.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.03415800058821241,10.980083504393317,0.7075701951980591,4364.765242999965,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0045.png,,v4
+stratified_0045.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.0256179563742072,11.771161282699872,0.9218668341636658,4386.639566000667,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0045.png,,v4
+stratified_0045.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.0835158412262648,14.41168558209451,0.737520694732666,4357.545423999909,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0045.png,,v4
+stratified_0046.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.024086639969511978,8.007880520370009,0.7317618131637573,4347.06163699957,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0046.png,,v4
+stratified_0046.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.008889448775878876,8.375060766331877,0.6362123489379883,4368.637233999834,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0046.png,,v4
+stratified_0046.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.03762372591947194,9.840913177415823,0.4746847152709961,4386.058097999921,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0046.png,,v4
+stratified_0047.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.032745810874052164,9.221681875841604,0.5850485563278198,4341.470839999602,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0047.png,,v4
+stratified_0047.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.0347019591472791,10.547197285724126,0.5791964530944824,4372.899231999327,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0047.png,,v4
+stratified_0047.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.052623656017833274,10.18536880537064,0.51164311170578,4373.597071000404,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0047.png,,v4
+stratified_0048.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.019454097141154366,10.209634981697935,0.5849159955978394,4344.266872999469,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0048.png,,v4
+stratified_0048.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.033912774271262276,10.005739801209865,0.5123094320297241,4363.906951999525,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0048.png,,v4
+stratified_0048.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.03382253323850621,10.376509201570428,0.49916183948516846,4392.177868000545,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0048.png,,v4
+stratified_0049.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.1205333295459574,18.29445520944524,0.5236815214157104,4349.780989999999,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0049.png,,v4
+stratified_0049.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.05188545601051851,15.669968276388488,0.6393231749534607,4358.665277,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0049.png,,v4
+stratified_0049.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.025503521841180512,11.712090139324653,0.7728667855262756,4369.551193000007,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0049.png,,v4
+stratified_0050.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.04639734066067174,12.571767987286211,0.5622293949127197,4351.4426319998165,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0050.png,,v4
+stratified_0050.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.04235294279550425,12.151043766535228,0.48709261417388916,4372.782163000011,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0050.png,,v4
+stratified_0050.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.07452760445431403,12.18821932765355,0.39187806844711304,4378.30265499997,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0050.png,,v4
+stratified_0051.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.03721674162963885,8.63753381299669,0.5626071691513062,4357.764252000379,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0051.png,,v4
+stratified_0051.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.03768673388221096,8.191935150396624,0.5480549335479736,4365.704558999823,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0051.png,,v4
+stratified_0051.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.022715855187148453,8.569163821022093,0.5620810389518738,4366.2509890000365,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0051.png,,v4
+stratified_0053.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.03125134092943746,11.30692774055049,0.5884191393852234,4368.909302999782,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0053.png,,v4
+stratified_0053.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.05201353915503323,12.84783909557099,0.5865920782089233,4343.573794999429,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0053.png,,v4
+stratified_0053.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.032758799456848994,10.833349930870632,0.6003050208091736,4364.315377000821,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0053.png,,v4
+stratified_0054.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.04657904755746729,10.344406258061618,0.5237075686454773,4376.994879999984,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0054.png,,v4
+stratified_0054.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.027101562512290095,9.685105235937105,0.49003374576568604,4355.949444000544,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0054.png,,v4
+stratified_0054.jpg,256,SD v1.5 + IP-Adapter,2,stratified,-0.002395885659491734,8.676613875968592,0.5169618725776672,4356.147078000504,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0054.png,,v4
+stratified_0055.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.010736921144471548,9.796092956117647,0.5251591801643372,4370.219919999727,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0055.png,,v4
+stratified_0055.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.021391123865608437,10.608148612450004,0.47619158029556274,4355.541458000516,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0055.png,,v4
+stratified_0055.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.016330361250915946,9.827093283662542,0.47772979736328125,4357.692517000032,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0055.png,,v4
+stratified_0056.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.02014495816400803,8.201662295080634,0.5161525011062622,4386.658317000183,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0056.png,,v4
+stratified_0056.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.01186695206975363,8.72880222845681,0.5489371418952942,4362.281056000029,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0056.png,,v4
+stratified_0056.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.0048930924219112056,6.867383534316977,0.5782577395439148,4367.176590000781,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0056.png,,v4
+stratified_0057.jpg,256,SD v1.5 + IP-Adapter,0,stratified,0.015304389154988727,9.529445645626947,0.5111972689628601,4385.713515999669,611.1865234375,256_SD_v1_5_IP_Adapter_0_stratified_0057.png,,v4
+stratified_0057.jpg,256,SD v1.5 + IP-Adapter,1,stratified,0.018461839401462492,8.56295324525912,0.5345849394798279,4360.054004000631,611.1865234375,256_SD_v1_5_IP_Adapter_1_stratified_0057.png,,v4
+stratified_0057.jpg,256,SD v1.5 + IP-Adapter,2,stratified,0.009786688027108527,9.07920440835409,0.4889134466648102,4344.627334000506,611.1865234375,256_SD_v1_5_IP_Adapter_2_stratified_0057.png,,v4
+knitted_0023.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.01703992191519149,8.442018346366595,0.39692723751068115,4363.951371000439,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0023.png,,v4
+knitted_0023.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.0001886977131690146,9.189537785025431,0.5184922218322754,4381.1016750005365,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0023.png,,v4
+knitted_0023.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.027144038288120103,11.75212373490147,0.7442042231559753,4351.425492000089,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0023.png,,v4
+knitted_0072.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.023795439432085508,9.65313491095418,0.35369494557380676,4370.00583400004,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0072.png,,v4
+knitted_0072.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.016572561128675035,11.804508512808287,0.617599368095398,4359.506179999698,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0072.png,,v4
+knitted_0072.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.013444961338408608,10.411091126722486,0.6523948907852173,4350.1779850003,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0072.png,,v4
+knitted_0073.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.07507577891280988,16.05673540386262,0.9099017381668091,4358.866090999982,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0073.png,,v4
+knitted_0073.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.0404873845350445,13.52427807668926,0.6883460879325867,4370.0872770004935,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0073.png,,v4
+knitted_0073.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.16467558934263263,17.195787378549284,0.7017669081687927,4359.6748490008395,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0073.png,,v4
+knitted_0075.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.024717397017501683,9.892167694197667,0.5818889737129211,4355.918831000054,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0075.png,,v4
+knitted_0075.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.010780667161998615,10.026629715338334,0.47901323437690735,4386.003177999555,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0075.png,,v4
+knitted_0075.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.026449177786014723,10.90857275286685,0.3684064745903015,4346.66931799984,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0075.png,,v4
+knitted_0076.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.01637821630674618,9.18055178833787,0.5515652298927307,4355.513183999392,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0076.png,,v4
+knitted_0076.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.01430784677336998,9.791912444074466,0.8137077689170837,4356.209124000088,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0076.png,,v4
+knitted_0076.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.025058540244358746,11.192868264975917,0.6520631313323975,4378.614516000198,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0076.png,,v4
+knitted_0079.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.017472220596997264,11.994223425794509,0.5082098245620728,4355.284969000422,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0079.png,,v4
+knitted_0079.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.030260337780809773,12.508699885418942,0.5115669965744019,4360.184378999293,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0079.png,,v4
+knitted_0079.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.05361144430473169,16.19871645408509,0.674685537815094,4381.288739000411,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0079.png,,v4
+knitted_0083.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.034996579540433316,12.789198743143878,0.6503729224205017,4348.6411859994405,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0083.png,,v4
+knitted_0083.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.009393752785340338,10.270021779823335,0.4980357587337494,4357.550934999381,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0083.png,,v4
+knitted_0083.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.050170693922081774,14.637542975787571,0.465959370136261,4379.6050560004005,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0083.png,,v4
+knitted_0085.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.05184560377544048,15.337093131755333,0.32744619250297546,4355.633545000273,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0085.png,,v4
+knitted_0085.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.0508330893594947,13.9722197655683,0.35432496666908264,4348.509043999911,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0085.png,,v4
+knitted_0085.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.06366012363241184,15.336251297072284,0.4887208342552185,4385.541540000304,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0085.png,,v4
+knitted_0087.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.006975842560091027,11.899357532905544,0.41195324063301086,4361.355527999876,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0087.png,,v4
+knitted_0087.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.03265820475901985,12.959307767254582,0.39772456884384155,4355.942676000268,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0087.png,,v4
+knitted_0087.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.020169313848671808,11.979466584977176,0.5195099711418152,4384.909420999975,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0087.png,,v4
+knitted_0089.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.019865724441704733,9.204343735791396,0.6335546374320984,4342.75284100022,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0089.png,,v4
+knitted_0089.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.06333912609188984,8.171447770186157,0.5765063762664795,4349.398532999658,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0089.png,,v4
+knitted_0089.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.02416734983422809,11.40927977934256,0.5999045372009277,4370.9486780007865,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0089.png,,v4
+knitted_0091.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.06526719124488223,17.660345266088523,0.7156215310096741,4373.501240000223,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0091.png,,v4
+knitted_0091.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.024476055560042377,13.354585871243005,1.0003265142440796,4358.96774899993,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0091.png,,v4
+knitted_0091.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.07101124188570541,14.492522700898201,0.8530235886573792,4347.974758000419,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0091.png,,v4
+knitted_0092.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.012647289718068678,11.683738794594703,0.5738722085952759,4378.092191999713,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0092.png,,v4
+knitted_0092.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.023981107375760657,12.216506003045744,0.5431181192398071,4336.205593000159,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0092.png,,v4
+knitted_0092.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.034559332405833205,13.47707852529378,0.4013647735118866,4354.105337999499,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0092.png,,v4
+knitted_0093.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.05138105307562003,12.223050347521593,0.7357759475708008,4362.547440000526,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0093.png,,v4
+knitted_0093.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.023715525086762584,10.042259608068466,0.8910938501358032,4333.855581000535,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0093.png,,v4
+knitted_0093.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.01962310339521628,7.3899071935884795,0.8763509392738342,4351.614211999731,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0093.png,,v4
+knitted_0096.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.02582474385549706,10.674176089736541,0.6697009801864624,4365.608238999812,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0096.png,,v4
+knitted_0096.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.023003837405639178,11.5560457532128,0.7203132510185242,4343.833234000158,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0096.png,,v4
+knitted_0096.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.05938498564623893,8.619335313276494,0.5411770939826965,4355.306536999706,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0096.png,,v4
+knitted_0097.jpg,256,SD v1.5 + IP-Adapter,0,knitted,0.014224539206193477,11.174600444495397,0.5760141611099243,4364.032477999899,611.1865234375,256_SD_v1_5_IP_Adapter_0_knitted_0097.png,,v4
+knitted_0097.jpg,256,SD v1.5 + IP-Adapter,1,knitted,0.020353921965759924,12.462755768607847,0.574878454208374,4368.097688000489,611.1865234375,256_SD_v1_5_IP_Adapter_1_knitted_0097.png,,v4
+knitted_0097.jpg,256,SD v1.5 + IP-Adapter,2,knitted,0.0224100461111615,10.442346006506202,0.492482990026474,4352.291986999262,611.1865234375,256_SD_v1_5_IP_Adapter_2_knitted_0097.png,,v4
+marbled_0035.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.05490100198939543,9.848410845625356,0.5188815593719482,4371.588813999551,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0035.png,,v4
+marbled_0035.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.10254127977267959,12.135978648484718,0.3570040166378021,4372.696745999747,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0035.png,,v4
+marbled_0035.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.08455037787247231,10.37481681644209,0.5040332674980164,4348.997138999948,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0035.png,,v4
+marbled_0072.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.23436339564194256,10.924347465259029,0.4021996557712555,4360.590244999912,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0072.png,,v4
+marbled_0072.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.15851355866168113,13.709418270502283,0.41886773705482483,4366.420742999253,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0072.png,,v4
+marbled_0072.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.10692436439678313,13.47990081906568,0.4592607319355011,4353.432883999631,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0072.png,,v4
+marbled_0073.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.07158276084209751,15.45001270663877,0.4730992019176483,4364.827675000015,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0073.png,,v4
+marbled_0073.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.03513273557345544,12.629830876220394,0.41055911779403687,4379.734956999528,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0073.png,,v4
+marbled_0073.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.05107193612157219,14.535393943419198,0.43965089321136475,4358.408404999864,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0073.png,,v4
+marbled_0074.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.1254225228301396,20.7457959116213,0.590357780456543,4362.518787999761,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0074.png,,v4
+marbled_0074.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.186871556055153,19.735884123848315,0.6189219951629639,4369.476828000188,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0074.png,,v4
+marbled_0074.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.13984851874073012,20.928825532407473,0.6661419868469238,4376.621918999263,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0074.png,,v4
+marbled_0075.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.022890159700219136,10.535697762421393,0.6651598215103149,4360.518350000348,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0075.png,,v4
+marbled_0075.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.022233907478311166,9.482864944825836,0.6609455943107605,4373.680597999737,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0075.png,,v4
+marbled_0075.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.012208250808672494,7.996313281664831,0.7170650959014893,4378.136094000183,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0075.png,,v4
+marbled_0076.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.026169155790958343,9.315811291911695,0.653882622718811,4367.5542199998745,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0076.png,,v4
+marbled_0076.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.21314493880176658,11.19778537478246,0.4468277096748352,4337.653274999866,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0076.png,,v4
+marbled_0076.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.03102350600297367,9.705508398064385,0.5225971341133118,4353.18702099994,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0076.png,,v4
+marbled_0078.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.10882763521772507,18.313430948616677,0.4119727909564972,4332.389759999387,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0078.png,,v4
+marbled_0078.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.09535250278747052,18.348944892352545,0.3907075822353363,4313.302624999778,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0078.png,,v4
+marbled_0078.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.12438599719569254,20.13789837133772,0.3822435736656189,4332.5247479997415,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0078.png,,v4
+marbled_0079.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.09706237618516084,18.332294218152093,0.5212482810020447,4328.759297000033,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0079.png,,v4
+marbled_0079.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.0486347597984855,15.368410090421582,0.5440813302993774,4327.127431000008,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0079.png,,v4
+marbled_0079.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.08213916737682934,17.348069374582302,0.5170892477035522,4337.6795529993615,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0079.png,,v4
+marbled_0080.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.021999072712606038,13.684867012750768,0.3997720777988434,4356.50275900025,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0080.png,,v4
+marbled_0080.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.02652070110016127,14.790649349173224,0.4416022002696991,4356.071089000579,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0080.png,,v4
+marbled_0080.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.025962911610904048,13.00160707846908,0.48366808891296387,4362.959828000385,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0080.png,,v4
+marbled_0081.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.025139397266642265,12.213117360728445,0.42384541034698486,4386.465628999758,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0081.png,,v4
+marbled_0081.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.05054202107400063,14.614695809672467,0.39379915595054626,4359.442003999902,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0081.png,,v4
+marbled_0081.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.015674955078125136,12.11732251857001,0.44121479988098145,4376.20336100008,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0081.png,,v4
+marbled_0082.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.3341987623141413,15.904295403903273,0.5544840097427368,4388.406904000476,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0082.png,,v4
+marbled_0082.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.30071756890598617,13.830196812960507,0.51753830909729,4358.604487999401,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0082.png,,v4
+marbled_0082.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.3166049519546292,15.339641937323176,0.49558791518211365,4360.2527729999565,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0082.png,,v4
+marbled_0085.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.5003667061682786,18.188583554555088,0.5528720617294312,4393.724995000412,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0085.png,,v4
+marbled_0085.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.28570370618075613,15.806322853151682,0.684697687625885,4351.486307999949,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0085.png,,v4
+marbled_0085.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.2232773720707854,16.035354719721408,0.73011714220047,4358.002164000027,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0085.png,,v4
+marbled_0086.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.7221228544290588,19.993431408567268,0.44613155722618103,4354.228172000148,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0086.png,,v4
+marbled_0086.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.7192630803212747,19.90543880206151,0.5090907216072083,4333.960730999934,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0086.png,,v4
+marbled_0086.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.7636126875527688,17.6261373196559,0.4280557334423065,4318.257416000051,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0086.png,,v4
+marbled_0087.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.8027100842014551,24.236292526945128,0.2851753532886505,4335.053859999789,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0087.png,,v4
+marbled_0087.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.5371295472852892,23.138825428240978,0.5251872539520264,4362.7220500002295,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0087.png,,v4
+marbled_0087.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.7820410161658748,24.230526589361094,0.37388700246810913,4318.424224999944,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0087.png,,v4
+marbled_0088.jpg,256,SD v1.5 + IP-Adapter,0,marbled,0.03349705238241309,9.933856720912438,0.4433484673500061,4338.145965999502,611.1865234375,256_SD_v1_5_IP_Adapter_0_marbled_0088.png,,v4
+marbled_0088.jpg,256,SD v1.5 + IP-Adapter,1,marbled,0.02180470740689565,10.761076919122452,0.43686097860336304,4366.006852000282,611.1865234375,256_SD_v1_5_IP_Adapter_1_marbled_0088.png,,v4
+marbled_0088.jpg,256,SD v1.5 + IP-Adapter,2,marbled,0.020246170695516475,10.327542320920273,0.4774031937122345,4334.1198070002065,611.1865234375,256_SD_v1_5_IP_Adapter_2_marbled_0088.png,,v4
+woven_0001.jpg,512,SD v1.5 + IP-Adapter,0,woven,0.01901358265023427,5.834963713605781,0.6670330762863159,4349.3329189996075,611.1865234375,512_SD_v1_5_IP_Adapter_0_woven_0001.png,,v4
+woven_0001.jpg,512,SD v1.5 + IP-Adapter,1,woven,0.002992981443153105,8.593699246056175,0.6806657314300537,4368.696020999778,611.1865234375,512_SD_v1_5_IP_Adapter_1_woven_0001.png,,v4
+woven_0001.jpg,512,SD v1.5 + IP-Adapter,2,woven,0.011631993747947622,6.4852422804751875,0.7306176424026489,4354.566384999998,611.1865234375,512_SD_v1_5_IP_Adapter_2_woven_0001.png,,v4
+woven_0002.jpg,512,SD v1.5 + IP-Adapter,0,woven,0.0708182110484702,10.774920235895259,0.5185673236846924,4371.012197000709,611.1865234375,512_SD_v1_5_IP_Adapter_0_woven_0002.png,,v4
+woven_0002.jpg,512,SD v1.5 + IP-Adapter,1,woven,0.04255190813470083,15.098819806965622,0.7984566688537598,4375.605997000093,611.1865234375,512_SD_v1_5_IP_Adapter_1_woven_0002.png,,v4
+woven_0002.jpg,512,SD v1.5 + IP-Adapter,2,woven,0.03911695256201928,12.963894260855264,0.6013088822364807,4348.677091999889,611.1865234375,512_SD_v1_5_IP_Adapter_2_woven_0002.png,,v4
+woven_0003.jpg,512,SD v1.5 + IP-Adapter,0,woven,0.0294004607857718,6.7487926425646325,0.6340595483779907,4357.038875000399,611.1865234375,512_SD_v1_5_IP_Adapter_0_woven_0003.png,,v4
+woven_0003.jpg,512,SD v1.5 + IP-Adapter,1,woven,-0.00958963388594165,7.133803725426143,0.7517907619476318,4374.234699000226,611.1865234375,512_SD_v1_5_IP_Adapter_1_woven_0003.png,,v4
+woven_0003.jpg,512,SD v1.5 + IP-Adapter,2,woven,0.002391915414811977,8.340020061706904,0.7506900429725647,4354.541630000313,611.1865234375,512_SD_v1_5_IP_Adapter_2_woven_0003.png,,v4
+woven_0004.jpg,512,SD v1.5 + IP-Adapter,0,woven,-0.010648356610945162,8.542922115345197,0.46133357286453247,4356.278477999695,611.1865234375,512_SD_v1_5_IP_Adapter_0_woven_0004.png,,v4
+woven_0004.jpg,512,SD v1.5 + IP-Adapter,1,woven,0.012448448663910358,7.124127160980197,0.7152709364891052,4384.9470269997255,611.1865234375,512_SD_v1_5_IP_Adapter_1_woven_0004.png,,v4
+woven_0004.jpg,512,SD v1.5 + IP-Adapter,2,woven,0.025583618304204383,7.579945735778545,0.505616307258606,4367.784523999944,611.1865234375,512_SD_v1_5_IP_Adapter_2_woven_0004.png,,v4
+woven_0005.jpg,512,SD v1.5 + IP-Adapter,0,woven,0.00814753479593059,10.276919395162803,0.5865887403488159,4350.459100999615,611.1865234375,512_SD_v1_5_IP_Adapter_0_woven_0005.png,,v4
+woven_0005.jpg,512,SD v1.5 + IP-Adapter,1,woven,0.0026543564434674933,9.521466718590425,0.5821191072463989,4356.153787999574,611.1865234375,512_SD_v1_5_IP_Adapter_1_woven_0005.png,,v4
+woven_0005.jpg,512,SD v1.5 + IP-Adapter,2,woven,0.016312517651280438,10.370219336783862,0.6026191711425781,4353.491344999384,611.1865234375,512_SD_v1_5_IP_Adapter_2_woven_0005.png,,v4
+woven_0007.jpg,512,SD v1.5 + IP-Adapter,0,woven,0.003284028568196933,7.299506352383966,0.6407891511917114,4350.897131000238,611.1865234375,512_SD_v1_5_IP_Adapter_0_woven_0007.png,,v4
+woven_0007.jpg,512,SD v1.5 + IP-Adapter,1,woven,0.0068133717921429185,8.390818890256726,0.6832495927810669,4371.213491000162,611.1865234375,512_SD_v1_5_IP_Adapter_1_woven_0007.png,,v4
+woven_0007.jpg,512,SD v1.5 + IP-Adapter,2,woven,0.005839974087329322,7.373431958722479,0.6218873262405396,4379.085520999979,611.1865234375,512_SD_v1_5_IP_Adapter_2_woven_0007.png,,v4
+braided_0002.jpg,512,SD v1.5 + IP-Adapter,0,braided,0.07750565542483537,10.959630461765915,0.5802301168441772,4365.13348599965,611.1865234375,512_SD_v1_5_IP_Adapter_0_braided_0002.png,,v4
+braided_0002.jpg,512,SD v1.5 + IP-Adapter,1,braided,0.06151978175090129,10.70034095807851,0.6484501957893372,4357.971915999769,611.1865234375,512_SD_v1_5_IP_Adapter_1_braided_0002.png,,v4
+braided_0002.jpg,512,SD v1.5 + IP-Adapter,2,braided,0.03236024139276584,9.991932999007085,0.5673537254333496,4387.720763999823,611.1865234375,512_SD_v1_5_IP_Adapter_2_braided_0002.png,,v4
+braided_0006.jpg,512,SD v1.5 + IP-Adapter,0,braided,0.010446842159433842,10.72595322043262,0.6987471580505371,4345.00385299998,611.1865234375,512_SD_v1_5_IP_Adapter_0_braided_0006.png,,v4
+braided_0006.jpg,512,SD v1.5 + IP-Adapter,1,braided,0.024300442457956165,11.37053294237964,0.3777875304222107,4359.672671000226,611.1865234375,512_SD_v1_5_IP_Adapter_1_braided_0006.png,,v4
+braided_0006.jpg,512,SD v1.5 + IP-Adapter,2,braided,0.03340388028274734,12.370475896678894,0.5145450830459595,4360.734996999781,611.1865234375,512_SD_v1_5_IP_Adapter_2_braided_0006.png,,v4
+braided_0007.jpg,512,SD v1.5 + IP-Adapter,0,braided,0.04552025586805538,11.00951075767716,0.5151278972625732,4348.220062999644,611.1865234375,512_SD_v1_5_IP_Adapter_0_braided_0007.png,,v4
+braided_0007.jpg,512,SD v1.5 + IP-Adapter,1,braided,0.01984892371627762,9.956442268981755,0.4960925877094269,4348.341007000272,611.1865234375,512_SD_v1_5_IP_Adapter_1_braided_0007.png,,v4
+braided_0007.jpg,512,SD v1.5 + IP-Adapter,2,braided,0.04957415045409747,10.859512307120003,0.5505552291870117,4362.407511999663,611.1865234375,512_SD_v1_5_IP_Adapter_2_braided_0007.png,,v4
+braided_0008.jpg,512,SD v1.5 + IP-Adapter,0,braided,0.034347846093411995,9.022255299806405,0.5864883065223694,4359.365173000697,611.1865234375,512_SD_v1_5_IP_Adapter_0_braided_0008.png,,v4
+braided_0008.jpg,512,SD v1.5 + IP-Adapter,1,braided,0.03425918050473728,9.711779388100798,0.36010533571243286,4331.739545999881,611.1865234375,512_SD_v1_5_IP_Adapter_1_braided_0008.png,,v4
+braided_0008.jpg,512,SD v1.5 + IP-Adapter,2,braided,0.020486998347230452,8.022862853531842,0.4130822420120239,4335.699154999929,611.1865234375,512_SD_v1_5_IP_Adapter_2_braided_0008.png,,v4
+braided_0009.jpg,512,SD v1.5 + IP-Adapter,0,braided,0.11564578894686106,8.9727990404019,0.670821487903595,4357.395586999701,611.1865234375,512_SD_v1_5_IP_Adapter_0_braided_0009.png,,v4
+braided_0009.jpg,512,SD v1.5 + IP-Adapter,1,braided,0.054447786844891384,10.36949022826892,0.516714334487915,4335.239416999684,611.1865234375,512_SD_v1_5_IP_Adapter_1_braided_0009.png,,v4
+braided_0009.jpg,512,SD v1.5 + IP-Adapter,2,braided,0.023587895555895577,9.11219666690377,0.6346960663795471,4332.844198999737,611.1865234375,512_SD_v1_5_IP_Adapter_2_braided_0009.png,,v4
+braided_0013.jpg,512,SD v1.5 + IP-Adapter,0,braided,0.03714651982916582,9.310176411872828,0.6100738048553467,4348.771056999794,611.1865234375,512_SD_v1_5_IP_Adapter_0_braided_0013.png,,v4
+braided_0013.jpg,512,SD v1.5 + IP-Adapter,1,braided,0.03700016809353414,10.181230470389544,0.6401480436325073,4318.861472000208,611.1865234375,512_SD_v1_5_IP_Adapter_1_braided_0013.png,,v4
+braided_0013.jpg,512,SD v1.5 + IP-Adapter,2,braided,0.02959684741229384,10.463360449184119,0.6511538028717041,4331.586207999862,611.1865234375,512_SD_v1_5_IP_Adapter_2_braided_0013.png,,v4
+stratified_0027.jpg,512,SD v1.5 + IP-Adapter,0,stratified,0.03135116892398139,9.038794872403468,0.5339090824127197,4353.514055999767,611.1865234375,512_SD_v1_5_IP_Adapter_0_stratified_0027.png,,v4
+stratified_0027.jpg,512,SD v1.5 + IP-Adapter,1,stratified,0.04671025899422155,11.03111366921115,0.45153820514678955,4349.519722999503,611.1865234375,512_SD_v1_5_IP_Adapter_1_stratified_0027.png,,v4
+stratified_0027.jpg,512,SD v1.5 + IP-Adapter,2,stratified,0.028726900619319484,10.329355079866758,0.48696017265319824,4330.044872000144,611.1865234375,512_SD_v1_5_IP_Adapter_2_stratified_0027.png,,v4
+stratified_0042.jpg,512,SD v1.5 + IP-Adapter,0,stratified,0.033058539254153314,8.440405228291496,0.4978742003440857,4376.751257999786,611.1865234375,512_SD_v1_5_IP_Adapter_0_stratified_0042.png,,v4
+stratified_0042.jpg,512,SD v1.5 + IP-Adapter,1,stratified,0.02118804282021705,7.77832913549755,0.5634546279907227,4421.277113000542,611.1865234375,512_SD_v1_5_IP_Adapter_1_stratified_0042.png,,v4
+stratified_0042.jpg,512,SD v1.5 + IP-Adapter,2,stratified,0.04047879398445053,8.559101389204908,0.5095774531364441,4358.078823999676,611.1865234375,512_SD_v1_5_IP_Adapter_2_stratified_0042.png,,v4
+stratified_0043.jpg,512,SD v1.5 + IP-Adapter,0,stratified,0.05005527741972763,9.253882846997497,0.6146983504295349,4378.081862000727,611.1865234375,512_SD_v1_5_IP_Adapter_0_stratified_0043.png,,v4
+stratified_0043.jpg,512,SD v1.5 + IP-Adapter,1,stratified,0.06276062386022906,10.9170166193616,0.7494797706604004,4381.413996000447,611.1865234375,512_SD_v1_5_IP_Adapter_1_stratified_0043.png,,v4
+stratified_0043.jpg,512,SD v1.5 + IP-Adapter,2,stratified,0.1022422415841212,10.151002532800387,0.5879313945770264,4366.473455999767,611.1865234375,512_SD_v1_5_IP_Adapter_2_stratified_0043.png,,v4
+stratified_0045.jpg,512,SD v1.5 + IP-Adapter,0,stratified,0.07502895175293638,10.907320197102166,0.7360346913337708,4368.647994000639,611.1865234375,512_SD_v1_5_IP_Adapter_0_stratified_0045.png,,v4
+stratified_0045.jpg,512,SD v1.5 + IP-Adapter,1,stratified,0.04204062484222565,11.061996464033815,0.6323778033256531,4372.546335000152,611.1865234375,512_SD_v1_5_IP_Adapter_1_stratified_0045.png,,v4
+stratified_0045.jpg,512,SD v1.5 + IP-Adapter,2,stratified,0.11393744450078137,14.261100625381056,0.6741700172424316,4360.451635000572,611.1865234375,512_SD_v1_5_IP_Adapter_2_stratified_0045.png,,v4
+stratified_0046.jpg,512,SD v1.5 + IP-Adapter,0,stratified,0.009789710919273551,6.791202257602094,0.766325831413269,4362.350379999953,611.1865234375,512_SD_v1_5_IP_Adapter_0_stratified_0046.png,,v4
+stratified_0046.jpg,512,SD v1.5 + IP-Adapter,1,stratified,0.013526181465001978,8.365577508230498,0.5663728713989258,4373.196266000377,611.1865234375,512_SD_v1_5_IP_Adapter_1_stratified_0046.png,,v4
+stratified_0046.jpg,512,SD v1.5 + IP-Adapter,2,stratified,0.029740381307740232,9.720749378651218,0.4486023783683777,4362.568475000444,611.1865234375,512_SD_v1_5_IP_Adapter_2_stratified_0046.png,,v4
+stratified_0047.jpg,512,SD v1.5 + IP-Adapter,0,stratified,0.0589695761103621,9.406179868366438,0.6750054359436035,4359.7966710003675,611.1865234375,512_SD_v1_5_IP_Adapter_0_stratified_0047.png,,v4
+stratified_0047.jpg,512,SD v1.5 + IP-Adapter,1,stratified,0.061507359397632855,10.493733080199243,0.6757850646972656,4385.801006999827,611.1865234375,512_SD_v1_5_IP_Adapter_1_stratified_0047.png,,v4
+stratified_0047.jpg,512,SD v1.5 + IP-Adapter,2,stratified,0.08958507925735423,10.039307260583278,0.6452757120132446,4349.329709999438,611.1865234375,512_SD_v1_5_IP_Adapter_2_stratified_0047.png,,v4
+knitted_0023.jpg,512,SD v1.5 + IP-Adapter,0,knitted,0.039952709487245344,8.53692704055973,0.5835424661636353,4349.162821000391,611.1865234375,512_SD_v1_5_IP_Adapter_0_knitted_0023.png,,v4
+knitted_0023.jpg,512,SD v1.5 + IP-Adapter,1,knitted,0.027247086191188655,9.082825779453355,0.5107543468475342,4358.485781999661,611.1865234375,512_SD_v1_5_IP_Adapter_1_knitted_0023.png,,v4
+knitted_0023.jpg,512,SD v1.5 + IP-Adapter,2,knitted,0.0356654995226318,10.55067368775332,0.646886944770813,4360.578896000334,611.1865234375,512_SD_v1_5_IP_Adapter_2_knitted_0023.png,,v4
+knitted_0072.jpg,512,SD v1.5 + IP-Adapter,0,knitted,0.048042548447681396,10.785207508392265,0.5878178477287292,4347.254322000481,611.1865234375,512_SD_v1_5_IP_Adapter_0_knitted_0072.png,,v4
+knitted_0072.jpg,512,SD v1.5 + IP-Adapter,1,knitted,0.04763122271085688,12.610531962435907,0.5737318396568298,4355.943466000099,611.1865234375,512_SD_v1_5_IP_Adapter_1_knitted_0072.png,,v4
+knitted_0072.jpg,512,SD v1.5 + IP-Adapter,2,knitted,0.029965962466409757,10.704659927993543,0.6114177107810974,4352.209046999633,611.1865234375,512_SD_v1_5_IP_Adapter_2_knitted_0072.png,,v4
+knitted_0073.jpg,512,SD v1.5 + IP-Adapter,0,knitted,0.03975859464311716,14.478219982856636,0.6316132545471191,4335.673573000349,611.1865234375,512_SD_v1_5_IP_Adapter_0_knitted_0073.png,,v4
+knitted_0073.jpg,512,SD v1.5 + IP-Adapter,1,knitted,0.03437923159452005,12.456337287551964,0.5586670637130737,4333.434234999913,611.1865234375,512_SD_v1_5_IP_Adapter_1_knitted_0073.png,,v4
+knitted_0073.jpg,512,SD v1.5 + IP-Adapter,2,knitted,0.03476013237817067,14.178340047627385,0.8615230321884155,4354.625351999857,611.1865234375,512_SD_v1_5_IP_Adapter_2_knitted_0073.png,,v4
+knitted_0075.jpg,512,SD v1.5 + IP-Adapter,0,knitted,0.04239927913522508,10.011308615011107,0.48356661200523376,4330.158447000031,611.1865234375,512_SD_v1_5_IP_Adapter_0_knitted_0075.png,,v4
+knitted_0075.jpg,512,SD v1.5 + IP-Adapter,1,knitted,0.04193529146387911,10.387673046213592,0.4089548587799072,4333.998210000573,611.1865234375,512_SD_v1_5_IP_Adapter_1_knitted_0075.png,,v4
+knitted_0075.jpg,512,SD v1.5 + IP-Adapter,2,knitted,0.05876989993381221,10.887552013507523,0.49450910091400146,4345.131254999615,611.1865234375,512_SD_v1_5_IP_Adapter_2_knitted_0075.png,,v4
+knitted_0076.jpg,512,SD v1.5 + IP-Adapter,0,knitted,0.030307917346255514,10.27660546627969,0.4586154818534851,4331.131144999745,611.1865234375,512_SD_v1_5_IP_Adapter_0_knitted_0076.png,,v4
+knitted_0076.jpg,512,SD v1.5 + IP-Adapter,1,knitted,0.023979282063202753,10.041701522963788,0.6540491580963135,4336.234088999845,611.1865234375,512_SD_v1_5_IP_Adapter_1_knitted_0076.png,,v4
+knitted_0076.jpg,512,SD v1.5 + IP-Adapter,2,knitted,0.04539309828007839,10.63140579544916,0.4641137719154358,4351.722935999533,611.1865234375,512_SD_v1_5_IP_Adapter_2_knitted_0076.png,,v4
+knitted_0079.jpg,512,SD v1.5 + IP-Adapter,0,knitted,0.05044690561376795,14.58203191341009,0.41370004415512085,4354.546904999552,611.1865234375,512_SD_v1_5_IP_Adapter_0_knitted_0079.png,,v4
+knitted_0079.jpg,512,SD v1.5 + IP-Adapter,1,knitted,0.04814915695716906,12.726370115239478,0.5273418426513672,4335.455388999435,611.1865234375,512_SD_v1_5_IP_Adapter_1_knitted_0079.png,,v4
+knitted_0079.jpg,512,SD v1.5 + IP-Adapter,2,knitted,0.03528386945777267,13.418761378371798,0.5780772566795349,4341.56802599955,611.1865234375,512_SD_v1_5_IP_Adapter_2_knitted_0079.png,,v4
+marbled_0035.jpg,512,SD v1.5 + IP-Adapter,0,marbled,0.1064363335466199,9.888577828620328,0.5994460582733154,4345.844978000059,611.1865234375,512_SD_v1_5_IP_Adapter_0_marbled_0035.png,,v4
+marbled_0035.jpg,512,SD v1.5 + IP-Adapter,1,marbled,0.10259434213582691,11.807384146929216,0.47841522097587585,4337.450884000646,611.1865234375,512_SD_v1_5_IP_Adapter_1_marbled_0035.png,,v4
+marbled_0035.jpg,512,SD v1.5 + IP-Adapter,2,marbled,0.1325466495165756,10.12607675895643,0.5691088438034058,4351.252744000703,611.1865234375,512_SD_v1_5_IP_Adapter_2_marbled_0035.png,,v4
+marbled_0072.jpg,512,SD v1.5 + IP-Adapter,0,marbled,0.2796642508683914,11.184542711717738,0.47086963057518005,4371.412210000017,611.1865234375,512_SD_v1_5_IP_Adapter_0_marbled_0072.png,,v4
+marbled_0072.jpg,512,SD v1.5 + IP-Adapter,1,marbled,0.2116166310270097,13.958077109788558,0.45356106758117676,4341.1724309999045,611.1865234375,512_SD_v1_5_IP_Adapter_1_marbled_0072.png,,v4
+marbled_0072.jpg,512,SD v1.5 + IP-Adapter,2,marbled,0.1842888088428886,14.123318082324769,0.45479345321655273,4344.417356000122,611.1865234375,512_SD_v1_5_IP_Adapter_2_marbled_0072.png,,v4
+marbled_0073.jpg,512,SD v1.5 + IP-Adapter,0,marbled,0.05485603560222568,12.822077811083423,0.46003374457359314,4373.000805000629,611.1865234375,512_SD_v1_5_IP_Adapter_0_marbled_0073.png,,v4
+marbled_0073.jpg,512,SD v1.5 + IP-Adapter,1,marbled,0.0594767510316918,11.97561064253329,0.4811552166938782,4350.4869960006545,611.1865234375,512_SD_v1_5_IP_Adapter_1_marbled_0073.png,,v4
+marbled_0073.jpg,512,SD v1.5 + IP-Adapter,2,marbled,0.061817945433674526,14.61567851857637,0.46523159742355347,4337.459555999885,611.1865234375,512_SD_v1_5_IP_Adapter_2_marbled_0073.png,,v4
+marbled_0074.jpg,512,SD v1.5 + IP-Adapter,0,marbled,0.0697639792226621,17.607290073687107,0.6420197486877441,4369.120006999765,611.1865234375,512_SD_v1_5_IP_Adapter_0_marbled_0074.png,,v4
+marbled_0074.jpg,512,SD v1.5 + IP-Adapter,1,marbled,0.09471551451329796,17.8036057353723,0.5642645955085754,4367.783665999923,611.1865234375,512_SD_v1_5_IP_Adapter_1_marbled_0074.png,,v4
+marbled_0074.jpg,512,SD v1.5 + IP-Adapter,2,marbled,0.057046648441703394,16.60456522093771,0.6343510746955872,4371.013111999673,611.1865234375,512_SD_v1_5_IP_Adapter_2_marbled_0074.png,,v4
+marbled_0075.jpg,512,SD v1.5 + IP-Adapter,0,marbled,0.01896814801423998,10.188738038358183,0.7224843502044678,4364.717911999833,611.1865234375,512_SD_v1_5_IP_Adapter_0_marbled_0075.png,,v4
+marbled_0075.jpg,512,SD v1.5 + IP-Adapter,1,marbled,0.02195596104989139,7.998783136714468,0.6804481148719788,4380.632730999423,611.1865234375,512_SD_v1_5_IP_Adapter_1_marbled_0075.png,,v4
+marbled_0075.jpg,512,SD v1.5 + IP-Adapter,2,marbled,0.02359113264557548,8.419315136791,0.7542101144790649,4357.531640000161,611.1865234375,512_SD_v1_5_IP_Adapter_2_marbled_0075.png,,v4
+marbled_0076.jpg,512,SD v1.5 + IP-Adapter,0,marbled,0.03382921449641935,9.637682495395982,0.5886036157608032,4361.2532699999065,611.1865234375,512_SD_v1_5_IP_Adapter_0_marbled_0076.png,,v4
+marbled_0076.jpg,512,SD v1.5 + IP-Adapter,1,marbled,0.07478388252309226,11.503177643772482,0.5359727144241333,4367.592521000006,611.1865234375,512_SD_v1_5_IP_Adapter_1_marbled_0076.png,,v4
+marbled_0076.jpg,512,SD v1.5 + IP-Adapter,2,marbled,0.045996504564171474,10.299757379468769,0.5282294750213623,4363.212713999928,611.1865234375,512_SD_v1_5_IP_Adapter_2_marbled_0076.png,,v4

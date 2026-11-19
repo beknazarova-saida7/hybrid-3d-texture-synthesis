@@ -1,0 +1,18 @@
+# versions of the reported run (Google Colab, Tesla T4)
+torch==2.14.1
+torchvision==0.29.1
+numpy
+scipy==1.16.3
+scikit-image==0.25.2
+pandas
+pillow
+matplotlib
+tqdm
+openpyxl
+lpips
+torchmetrics[image]
+torch-fidelity
+# only for the Stable Diffusion baseline (experiments_v2 notebook)
+diffusers>=0.27
+transformers
+accelerate
